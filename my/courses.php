@@ -48,36 +48,32 @@ if ($pdo){
   redirect('/');
 }
 
-$hassiteconfig = has_capability('moodle/site:config', context_system::instance());
-if ($hassiteconfig && moodle_needs_upgrading()) {
-    //redirect(new moodle_url('/admin/index.php'));
-}
-
-$context = context_system::instance();
-
 $asign_course = enrol_get_users_courses($USER->id, true, null, 'visible DESC, fullname ASC');
-$enrol_asign = 0;
+$diferent_course = 0;
 foreach ($asign_course as $key => $course_ex) {
    if ( $course_ex->shortname == 'PEMPRENDIMIENTO'){
-     if (user_has_role_assignment($USER->id, 5, $context->id)){
-       $enrol_asign = 1;
-     }else {
-       $enrol_asign = 0;
-     }
+      if(is_siteadmin()){
+        $diferent_course = 0;
+      }else{
+        $diferent_course = 1;
+        break;
+      }
    }
 }
 //if ($autodiagnostico->get_categories_in_auto($course->category) || $course->shortname == 'PEMPRENDIMIENTO'){
-if ($course->shortname == 'PEMPRENDIMIENTO' && $enrol_asign){
-  $diferent_course = 1;
-}else{
-  $diferent_course = 0;
-}
 
 if ($diferent_course){
   $destinationurl = new moodle_url('/cook/course.php');
   // Redirigir
   redirect($destinationurl);
 }
+
+$hassiteconfig = has_capability('moodle/site:config', context_system::instance());
+if ($hassiteconfig && moodle_needs_upgrading()) {
+    //redirect(new moodle_url('/admin/index.php'));
+}
+
+$context = context_system::instance();
 
 // Get the My Moodle page info.  Should always return something unless the database is broken.
 if (!$currentpage = my_get_page(null, MY_PAGE_PUBLIC, MY_PAGE_COURSES)) {
