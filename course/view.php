@@ -24,7 +24,7 @@
 
 require_once('../config.php');
 require_once('lib.php');
-require_once($CFG->dirroot . '/course/lib.php');
+
 require_once($CFG->libdir.'/completionlib.php');
 include '../cook/dbo.php'; // Asegúrate de que la ruta sea correcta
 require_once '../cook/mapa_class.php';
@@ -92,14 +92,13 @@ $context = context_course::instance($course->id, MUST_EXIST);
 
 $asign_course = enrol_get_users_courses($USER->id, true, null, 'visible DESC, fullname ASC');
 $enrol_asign = 0;
-foreach ($asign_course as $key => $course) {
-   if ( $course->shortname == 'PEMPRENDIMIENTO'){
+foreach ($asign_course as $key => $course_ex) {
+   if ( $course_ex->shortname == 'PEMPRENDIMIENTO'){
      if (user_has_role_assignment($USER->id, 5, $context->id)){
        $enrol_asign = 1;
      }else {
        $enrol_asign = 0;
      }
-
    }
 }
 //if ($autodiagnostico->get_categories_in_auto($course->category) || $course->shortname == 'PEMPRENDIMIENTO'){
