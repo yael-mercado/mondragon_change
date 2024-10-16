@@ -69,30 +69,6 @@ if ($pdo){
   redirect('/');
 }
 
-$asign_course = enrol_get_users_courses($USER->id, true, null, 'visible DESC, fullname ASC');
-$diferent_course = 0;
-foreach ($asign_course as $key => $course) {
-   if ( $autodiagnostico->get_categories_in_auto($course->category) || $course->shortname == 'PEMPRENDIMIENTO'){
-     $diferent_course = 1;
-
-   }else{
-     $diferent_course = 0;
-     break;
-   }
-}
-//if ($autodiagnostico->get_categories_in_auto($course->category) || $course->shortname == 'PEMPRENDIMIENTO'){
-if ($course->shortname == 'PEMPRENDIMIENTO'){
-  $diferent_course = 1;
-}else{
-  $diferent_course = 0;
-}
-
-if ($diferent_course){
-  $destinationurl = new moodle_url('/cook/course.php');
-  // Redirigir
-  redirect($destinationurl);
-}
-
 $urlparams = ['id' => $course->id];
 
 // Sectionid should get priority over section number.
@@ -113,6 +89,31 @@ $PAGE->set_cacheable(false);
 
 context_helper::preload_course($course->id);
 $context = context_course::instance($course->id, MUST_EXIST);
+
+$asign_course = enrol_get_users_courses($USER->id, true, null, 'visible DESC, fullname ASC');
+$enrol_asign = 0;
+foreach ($asign_course as $key => $course) {
+   if ( $course->shortname == 'PEMPRENDIMIENTO'){
+     if (user_has_role_assignment($USER->id, 5, $context->id)){
+       $enrol_asign = 1;
+     }else {
+       $enrol_asign = 0;
+     }
+
+   }
+}
+//if ($autodiagnostico->get_categories_in_auto($course->category) || $course->shortname == 'PEMPRENDIMIENTO'){
+if ($course->shortname == 'PEMPRENDIMIENTO' && $enrol_asign){
+  $diferent_course = 1;
+}else{
+  $diferent_course = 0;
+}
+
+if ($diferent_course){
+  $destinationurl = new moodle_url('/cook/course.php');
+  // Redirigir
+  redirect($destinationurl);
+}
 
 // Remove any switched roles before checking login.
 if ($switchrole == 0 && confirm_sesskey()) {
