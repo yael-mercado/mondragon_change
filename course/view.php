@@ -24,6 +24,7 @@
 
 require_once('../config.php');
 require_once('lib.php');
+require_once($CFG->dirroot . '/course/lib.php');
 require_once($CFG->libdir.'/completionlib.php');
 include '../cook/dbo.php'; // Asegúrate de que la ruta sea correcta
 require_once '../cook/mapa_class.php';
@@ -68,7 +69,17 @@ if ($pdo){
   redirect('/');
 }
 
+$asign_course = enrol_get_users_courses($USER->id, true, null, 'visible DESC, fullname ASC');
 $diferent_course = 0;
+foreach ($asign_course as $key => $course) {
+   if ( $autodiagnostico->get_categories_in_auto($course->category) || $course->shortname == 'PEMPRENDIMIENTO'){
+     $diferent_course = 1;
+
+   }else{
+     $diferent_course = 0;
+     break;
+   }
+}
 //if ($autodiagnostico->get_categories_in_auto($course->category) || $course->shortname == 'PEMPRENDIMIENTO'){
 if ($course->shortname == 'PEMPRENDIMIENTO'){
   $diferent_course = 1;
