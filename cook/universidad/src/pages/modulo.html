@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Modulo</title>
+
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" />
+  <link rel="stylesheet" crossorigin href="/universidad/assets/modulo-DadkwsGC.css">
+  <link rel="stylesheet" crossorigin href="/universidad/assets/global-CPC3-saQ.css">
+</head>
+<body>
+  <div id="app" class="flex flex-col items-center h-[100dvh] relative">
+    <ul class="absolute flex left-0 gap-5">
+      <li><button data-tema="Emprendimiento-1" class="view-update btn-back">Emprendimiento</button></li>
+      <li><button data-tema="Liderazgo" class="view-update btn-back">Liderazgo</button></li>
+      <li><button data-tema="Sostenibilidad" class="view-update btn-back">Sostenibilidad</button></li>
+    </ul>
+    <img class="max-w-64 md:max-w-[430px] self-end" src="data:image/svg+xml,%3csvg%20width='431'%20height='61'%20viewBox='0%200%20431%2061'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='M0%200H431V61H60C26.8629%2061%200%2034.1371%200%200.999999V0Z'%20fill='%23B74121'/%3e%3cpath%20d='M108%200H431V61H168C134.863%2061%20108%2034.1371%20108%200.999999V0Z'%20fill='%238EC100'/%3e%3cpath%20d='M211%200H431V61H271C237.863%2061%20211%2034.1371%20211%200.999999V0Z'%20fill='%230984BA'/%3e%3c/svg%3e" alt="colores header">
+    <main class="container px-5 flex flex-col gap-10">
+      <header class="h-24 flex items-center">
+        <a href="/universidad/index.html"> <img src="/universidad/assets/logo-BvwU9ppd.svg" alt="Logo del sitio"></a>
+      </header>
+
+      <section class="banner flex flex-col gap-y-6 md:flex-row bg-no-repeat bg-cover min-h-72 bg-hero-pattern overflow-hidden rounded-xl px-6 md:px-10 py-7">
+        <article class="relative w-full md:w-2/3 flex items-end pt-14 md:pt-0">
+          <a class="btn-back-banner" href="/universidad/index.html"><img src="data:image/svg+xml,%3csvg%20width='62'%20height='62'%20viewBox='0%200%2062%2062'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3ccircle%20cx='31'%20cy='31'%20r='31'%20fill='white'/%3e%3cpath%20d='M22.8771%2029.9163L34.104%2018.7479C34.6302%2018.1631%2035.5073%2018.1631%2036.0921%2018.7479C36.6183%2019.2741%2036.6183%2020.1512%2036.0921%2020.6775L25.8008%2030.9103L36.0336%2041.2016C36.6183%2041.7279%2036.6183%2042.605%2036.0336%2043.1313C35.5073%2043.716%2034.6302%2043.716%2034.104%2043.1313L22.8771%2031.9044C22.2924%2031.3781%2022.2924%2030.501%2022.8771%2029.9163Z'%20fill='%230984BA'/%3e%3c/svg%3e" alt=""></a>
+          <h1 class="title-h1 text-3xl md:text-4xl font-bold whitespace-pre-line max-w-[550px]">Módulo 1. 
+            Desarrollo y/o validación de la idea de negocio</h1>
+        </article>
+        <article class="w-full md:w-1/3 flex justify-center items-center">
+          
+          <div class="relative size-40">
+            <svg class="size-full -rotate-90" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
+              <circle cx="18" cy="18" r="16" fill="none" class="stroke-current text-white" stroke-width="3"></circle>
+              <circle id="progressCircle" cx="18" cy="18" r="16" fill="none" class="stroke-current text-[var(--color-secondary)]" stroke-width="3" stroke-dasharray="100" stroke-dashoffset="70" stroke-linecap="round"></circle>
+            </svg>
+
+            <div class="absolute top-1/2 start-1/2 transform -translate-y-1/2 -translate-x-1/2 flex flex-col">
+              <span id="progressValue" class="text-center text-2xl font-bold">30%</span>
+              <span class="text-center text-xl font-bold">Completado</span>
+            </div>
+          </div>
+
+        </article>
+      </section>
+
+      <section class="cards-container grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-3">
+
+        <!-- card structure
+        <article class="card">
+          <header class="grid bg-card-gradient grid-cols-3 h-40 items-center">
+            <figure class="w-24 h-24 sm:w-28 sm:h-28 lg:w-32 lg:h-32 p-4 bg-white rounded-full flex justify-center items-center">
+              <img src="../images/idea.svg" alt="icono de tarjeta">
+            </figure>
+            <div class="col-span-2">
+              <span class="text-sm">M1.1</span>
+              <h2 class="text-2xl font-bold">Idea de negocio</h2>
+            </div>
+          </header>
+          <div class="content-card">
+            <span class="text-base font-bold">Programa</span>
+            <div class="flex gap-1 items-center">
+              <figure class="status-icon bg-[var(--color-secondary)]">
+                <i class="fa-solid fa-check i-icon-text"></i>
+              </figure>
+              <span class="complete">Completado</span>
+            </div>
+            <span>Finalizado el 00 de Ago 2024</span>
+            <a class="btn-details" href="#">Detalles</a>
+          </div>
+        </article>
+
+        <article class="card active">
+          <header class="grid bg-card-gradient grid-cols-3 h-40 items-center">
+            <figure class="w-24 h-24 sm:w-28 sm:h-28 lg:w-32 lg:h-32 p-4 bg-white rounded-full flex justify-center items-center">
+              <img src="../images/shield.svg" alt="icono de tarjeta">
+            </figure>
+            <div class="col-span-2">
+              <span class="text-sm">M1.2</span>
+              <h2 class="text-2xl font-bold">Validación de la idea de negocio</h2>
+            </div>
+          </header>
+          <div class="content-card">
+            <span class="text-base font-bold">Programa</span>
+            <div class="flex gap-1 items-center">
+              <figure class="status-icon bg-[var(--color-tertiary)]">
+                <i class="fa-solid fa-exclamation i-icon-text"></i>
+              </figure>
+              <span class="incomplete">Requerido</span>
+            </div>
+            <span>Pendiente</span>
+            <a class="btn-continue" href="#">Continuar</a>
+          </div>
+        </article>
+
+        <article class="card">
+          <header class="grid bg-card-gradient grid-cols-3 h-40 items-center">
+            <figure class="w-24 h-24 sm:w-28 sm:h-28 lg:w-32 lg:h-32 p-4 bg-white rounded-full flex justify-center items-center">
+              <img src="../images/graphic.svg" alt="icono de tarjeta">
+            </figure>
+            <div class="col-span-2">
+              <span class="text-sm">M1.3</span>
+              <h2 class="text-2xl font-bold">Desarrollo del primer módelo de negocio</h2>
+            </div>
+          </header>
+          <div class="content-card">
+            <span class="text-base font-bold">Programa</span>
+            <div class="flex gap-1 items-center">
+              <figure class="status-icon bg-[var(--color-tertiary)]">
+                <i class="fa-solid fa-exclamation i-icon-text"></i>
+              </figure>
+              <span class="incomplete">Requerido</span>
+            </div>
+            <span>Pendiente</span>
+            <a class="btn-block" href="#">Comenzar</a>
+          </div>
+        </article>
+
+        <article class="card">
+          <header class="grid bg-card-gradient grid-cols-3 h-40 items-center">
+            <figure class="w-24 h-24 sm:w-28 sm:h-28 lg:w-32 lg:h-32 p-4 bg-white rounded-full flex justify-center items-center">
+              <img src="../images/gift.svg" alt="icono de tarjeta">
+            </figure>
+            <div class="col-span-2">
+              <span class="text-sm">M1.4</span>
+              <h2 class="text-2xl font-bold">Prototipo de producto o servicio</h2>
+            </div>
+          </header>
+          <div class="content-card">
+            <span class="text-base font-bold">Programa</span>
+            <div class="flex gap-1 items-center">
+              <figure class="status-icon bg-[var(--color-tertiary)]">
+                <i class="fa-solid fa-exclamation i-icon-text"></i>
+              </figure>
+              <span class="incomplete">Requerido</span>
+            </div>
+            <span>Pendiente</span>
+            <a class="btn-block" href="#">Comenzar</a>
+          </div>
+        </article>
+
+        <article class="card">
+          <header class="grid bg-card-gradient grid-cols-3 h-40 items-center">
+            <figure class="w-24 h-24 sm:w-28 sm:h-28 lg:w-32 lg:h-32 p-4 bg-white rounded-full flex justify-center items-center">
+              <img src="../images/dollar.svg" alt="icono de tarjeta">
+            </figure>
+            <div class="col-span-2">
+              <span class="text-sm">M1.5</span>
+              <h2 class="text-2xl font-bold">Fondos para el prototipo</h2>
+            </div>
+          </header>
+          <div class="content-card">
+            <span class="text-base font-bold">Programa</span>
+            <div class="flex gap-1 items-center">
+              <figure class="status-icon bg-[var(--color-tertiary)]">
+                <i class="fa-solid fa-exclamation i-icon-text"></i>
+              </figure>
+              <span class="incomplete">Requerido</span>
+            </div>
+            <span>Pendiente</span>
+            <a class="btn-block" href="#">Comenzar</a>
+          </div>
+        </article>
+
+        <article class="card">
+          <header class="grid bg-card-gradient grid-cols-3 h-40 items-center">
+            <figure class="w-24 h-24 sm:w-28 sm:h-28 lg:w-32 lg:h-32 p-4 bg-white rounded-full flex justify-center items-center">
+              <img src="../images/unbalanced-flip.svg" alt="icono de tarjeta">
+            </figure>
+            <div class="col-span-2">
+              <span class="text-sm">M1.6</span>
+              <h2 class="text-2xl font-bold">Prueba de mercado</h2>
+            </div>
+          </header>
+          <div class="content-card">
+            <span class="text-base font-bold">Programa</span>
+            <div class="flex gap-1 items-center">
+              <figure class="status-icon bg-[var(--color-tertiary)]">
+                <i class="fa-solid fa-exclamation i-icon-text"></i>
+              </figure>
+              <span class="incomplete">Requerido</span>
+            </div>
+            <span>Pendiente</span>
+            <a class="btn-block" href="#">Comenzar</a>
+          </div>
+        </article>
+      -->
+      </section>
+
+      <footer class="flex w-full justify-end">
+        <a class="btn-back" href="/universidad/index.html">Volver al programa</a>
+      </footer>
+
+    </main>
+    <img class="w-full md:max-w-[1000px] self-end mt-20" src="data:image/svg+xml,%3csvg%20width='1033'%20height='61'%20viewBox='0%200%201033%2061'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='M0%2061H1033V0H60C26.8629%200%200%2026.8629%200%2060V61Z'%20fill='%23B74121'/%3e%3cpath%20d='M258.85%2061H1033V0H318.85C285.713%200%20258.85%2026.8629%20258.85%2060V61Z'%20fill='%238EC100'/%3e%3cpath%20d='M505.715%2061H1033V0H565.715C532.578%200%20505.715%2026.8629%20505.715%2060V61Z'%20fill='%230984BA'/%3e%3c/svg%3e" alt="colores header">
+  </div>
+
+  <script>
+    const contentView = {
+      'Emprendimiento-1': {
+        title: `
+          Módulo 1. 
+          Desarrollo y/o validación de la idea de negocio
+        `,
+        progress: 30,
+        color: 'var(--color-primary)',
+        bgCard: 'bg-card-gradient-blue',
+        modules: {
+          'M1.1': {
+            title: 'Idea de negocio',
+            icon: 'idea.svg',
+            status: 'Completado',
+            date: 'Finalizado el 00 de Ago 2024',
+            link: '#'
+          },
+          'M1.2': {
+            title: 'Validación de la idea de negocio',
+            icon: 'shield.svg',
+            status: 'Requerido',
+            date: 'Pendiente',
+            link: '#',
+            active: true
+          },
+          'M1.3': {
+            title: 'Desarrollo del primer módelo de negocio',
+            icon: 'graphic.svg',
+            status: 'Requerido',
+            date: 'Pendiente',
+            link: '#'
+          },
+          'M1.4': {
+            title: 'Prototipo de producto o servicio',
+            icon: 'gift.svg',
+            status: 'Requerido',
+            date: 'Pendiente',
+            link: '#'
+          },
+          'M1.5': {
+            title: 'Fondos para el prototipo',
+            icon: 'dollar.svg',
+            status: 'Requerido',
+            date: 'Pendiente',
+            link: '#'
+          },
+          'M1.6': {
+            title: 'Prueba de mercado',
+            icon: 'unbalanced-flip.svg',
+            status: 'Requerido',
+            date: 'Pendiente',
+            link: '#'
+          },
+        },
+      },
+      'Liderazgo':{
+        title: `Liderazgo`,
+        progress: 50,
+        color: 'var(--color-blue-check)',
+        bgCard: 'bg-card-gradient-purple',
+        modules: {
+          'L1.': {
+            title: 'El compromiso de emprender',
+            icon: 'idea-purple.svg',
+            status: 'Completado',
+            date: 'Finalizado el 00 de Ago 2024',
+            link: '#'
+          },
+          'L2.': {
+            title: 'Gestión de equipos cooperativos',
+            icon: 'shield-purple.svg',
+            status: 'Requerido',
+            date: 'Pendiente',
+            link: '#',
+            active: true
+          },
+          'L3.': {
+            title: 'Liderazgo transformador',
+            icon: 'graphic-purple.svg',
+            status: 'Requerido',
+            date: 'Pendiente',
+            link: '#'
+          },
+        },
+      },
+      'Sostenibilidad':{
+        title: `Sostenibilidad y cultura cooperativa`,
+        progress: 75,
+        color: 'var(--color-tertiary)',
+        bgCard: 'bg-card-gradient-red',
+        modules: {
+          'SC1.': {
+            title: 'Emprender con enfoque de economía social',
+            icon: 'idea-red.svg',
+            status: 'Completado',
+            date: 'Finalizado el 00 de Ago 2024',
+            link: '#'
+          },
+          'SC2.': {
+            title: 'Innovación social y desarrollo sostenible',
+            icon: 'shield-red.svg',
+            status: 'Requerido',
+            date: 'Pendiente',
+            link: '#',
+            active: true
+          },
+        },
+      },
+    };
+
+    const updateModules = (tema) => {
+      const banner = document.querySelector('.banner');
+      const modulesContainer = document.querySelector('.cards-container');
+      banner.classList.remove('bg-[var(--color-primary)]', 'bg-[var(--color-blue-check)]', 'bg-[var(--color-tertiary)]');
+      banner.classList.add(`bg-[${tema.color}]`);
+      const title = document.querySelector('.title-h1');
+      const modules = tema.modules;
+      modulesContainer.innerHTML = '';
+
+      title.textContent = tema.title;
+
+      for (const key in modules) {
+        const module = modules[key];
+        const card = document.createElement('article');
+        card.className = `card ${module.active ? 'active':''}`;
+        card.innerHTML = `
+          <header class="grid ${tema.bgCard} grid-cols-3 h-40 items-center">
+            <figure class="w-24 h-24 sm:w-28 sm:h-28 lg:w-32 lg:h-32 p-4 bg-white rounded-full flex justify-center items-center">
+              <img src="/universidad/static/images/${module.icon}" alt="icono de tarjeta">
+            </figure>
+            <div class="col-span-2">
+              <span class="text-sm">${key}</span>
+              <h2 class="text-2xl font-bold">${module.title}</h2>
+            </div>
+          </header>
+          <div class="content-card">
+            <span class="text-base font-bold">Programa</span>
+            <div class="flex gap-1 items-center">
+              <figure class="status-icon bg-[${module.status === 'Requerido' ? 'var(--color-tertiary)':'var(--color-secondary)'}]">
+                <i class="${module.status === 'Requerido' ? 'fa-solid fa-exclamation':'fa-solid fa-check'} i-icon-text"></i>
+              </figure>
+              <span class="${module.status === 'Requerido' ? 'incomplete':'complete'}">${module.status}</span>
+            </div>
+            <span>${module.date}</span>
+            ${ module.active ? `<a class="btn-continue" href="${module.link}">Continuar</a>` 
+              : module.status === 'Requerido' ? `<a class="btn-block" href="${module.link}">Comenzar</a>` 
+              : `<a class="btn-details" href="${module.link}">Detalles</a>` 
+            }
+          </div>
+        `;
+        
+        modulesContainer.appendChild(card);
+      }
+
+      updateProgress(tema.progress);
+    };
+
+    const updateProgress = (offset) => {
+      const progressCircle = document.querySelector('#progressCircle');
+      const progressValue = document.querySelector('#progressValue');
+      const progress = 100 - offset;
+      progressCircle.setAttribute('stroke-dashoffset', progress);
+      progressValue.textContent = `${offset}%`;
+    };
+
+    updateModules(contentView['Emprendimiento-1']);
+
+    const btns = document.querySelectorAll('.view-update');
+
+    btns.forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        const tema = e.target.dataset.tema;
+        updateModules(contentView[tema]);
+      });
+    });
+
+  </script>
+
+</body>
+</html>

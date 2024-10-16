@@ -1,0 +1,2042 @@
+[06-Sep-2024 10:52:24 America/Mexico_City] Default exception handler: Excepción - core_renderer::user_picture(): Argument #1 ($user) must be of type stdClass, null given, called in [dirroot]/cook/blank.php on line 22 Debug: 
+Error code: generalexceptionmessage
+* line 2720 of /lib/outputrenderers.php: TypeError thrown
+* line 22 of /cook/blank.php: call to core_renderer->user_picture()
+
+[06-Sep-2024 16:54:13 UTC] PHP Parse error:  syntax error, unexpected variable "$OUTPUT", expecting "," or ";" in /home/universidadmondr/public_html/cook/blank.php on line 15
+[06-Sep-2024 16:54:20 UTC] PHP Parse error:  syntax error, unexpected variable "$OUTPUT", expecting "," or ";" in /home/universidadmondr/public_html/cook/blank.php on line 15
+[06-Sep-2024 16:54:40 UTC] PHP Parse error:  syntax error, unexpected variable "$OUTPUT", expecting "," or ";" in /home/universidadmondr/public_html/cook/blank.php on line 15
+[06-Sep-2024 16:54:40 UTC] PHP Parse error:  syntax error, unexpected variable "$OUTPUT", expecting "," or ";" in /home/universidadmondr/public_html/cook/blank.php on line 15
+[06-Sep-2024 16:54:50 UTC] PHP Parse error:  syntax error, unexpected variable "$OUTPUT", expecting "," or ";" in /home/universidadmondr/public_html/cook/blank.php on line 15
+[06-Sep-2024 16:54:52 UTC] PHP Parse error:  syntax error, unexpected variable "$OUTPUT", expecting "," or ";" in /home/universidadmondr/public_html/cook/blank.php on line 15
+[06-Sep-2024 16:54:54 UTC] PHP Parse error:  syntax error, unexpected variable "$OUTPUT", expecting "," or ";" in /home/universidadmondr/public_html/cook/blank.php on line 15
+[06-Sep-2024 10:55:11 America/Mexico_City] Default exception handler: Excepción - core_renderer::user_picture(): Argument #1 ($user) must be of type stdClass, null given, called in [dirroot]/cook/blank.php on line 22 Debug: 
+Error code: generalexceptionmessage
+* line 2720 of /lib/outputrenderers.php: TypeError thrown
+* line 22 of /cook/blank.php: call to core_renderer->user_picture()
+
+[06-Sep-2024 10:55:55 America/Mexico_City] Default exception handler: Excepción - core_renderer::user_picture(): Argument #1 ($user) must be of type stdClass, null given, called in [dirroot]/cook/blank.php on line 22 Debug: 
+Error code: generalexceptionmessage
+* line 2720 of /lib/outputrenderers.php: TypeError thrown
+* line 22 of /cook/blank.php: call to core_renderer->user_picture()
+
+[06-Sep-2024 10:56:00 America/Mexico_City] Default exception handler: Excepción - core_renderer::user_picture(): Argument #1 ($user) must be of type stdClass, null given, called in [dirroot]/cook/blank.php on line 22 Debug: 
+Error code: generalexceptionmessage
+* line 2720 of /lib/outputrenderers.php: TypeError thrown
+* line 22 of /cook/blank.php: call to core_renderer->user_picture()
+
+[06-Sep-2024 16:58:30 UTC] PHP Warning:  require_once(/home/universidadmondr/public_html/cook/config.php): Failed to open stream: No such file or directory in /home/universidadmondr/public_html/cook/blank2.php on line 2
+[06-Sep-2024 16:58:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/universidadmondr/public_html/cook/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/universidadmondr/public_html/cook/blank2.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/universidadmondr/public_html/cook/blank2.php on line 2
+[06-Sep-2024 11:34:18 America/Mexico_City] Default exception handler: Excepción - Failed opening required '/autodiagnostico.php' (include_path='[dirroot]/lib/pear:.:/opt/cpanel/ea-php82/root/usr/share/pear') Debug: 
+Error code: generalexceptionmessage
+* line 7 of /cook/blank2.php: Error thrown
+
+[06-Sep-2024 11:34:34 America/Mexico_City] Default exception handler: Excepción - Call to undefined function getMoodlePdoConnection() Debug: 
+Error code: generalexceptionmessage
+* line 11 of /cook/blank2.php: Error thrown
+
+[06-Sep-2024 11:37:19 America/Mexico_City] Default exception handler: Excepción - Failed opening required 'db.php' (include_path='[dirroot]/lib/pear:.:/opt/cpanel/ea-php82/root/usr/share/pear') Debug: 
+Error code: generalexceptionmessage
+* line 6 of /cook/blank2.php: Error thrown
+
+[06-Sep-2024 11:38:27 America/Mexico_City] Default exception handler: Excepción - Call to undefined function getMoodlePdoConnection() Debug: 
+Error code: generalexceptionmessage
+* line 11 of /cook/blank2.php: Error thrown
+
+[06-Sep-2024 11:39:04 America/Mexico_City] Default exception handler: Excepción - Failed opening required 'db.php' (include_path='[dirroot]/lib/pear:.:/opt/cpanel/ea-php82/root/usr/share/pear') Debug: 
+Error code: generalexceptionmessage
+* line 6 of /cook/blank2.php: Error thrown
+
+[06-Sep-2024 11:40:07 America/Mexico_City] Default exception handler: Excepción - Failed opening required 'db.php' (include_path='[dirroot]/lib/pear:.:/opt/cpanel/ea-php82/root/usr/share/pear') Debug: 
+Error code: generalexceptionmessage
+* line 6 of /cook/blank2.php: Error thrown
+
+[06-Sep-2024 11:40:30 America/Mexico_City] Default exception handler: Excepción - Failed opening required '/autodiagnostico.php' (include_path='[dirroot]/lib/pear:.:/opt/cpanel/ea-php82/root/usr/share/pear') Debug: 
+Error code: generalexceptionmessage
+* line 7 of /cook/blank2.php: Error thrown
+
+[06-Sep-2024 11:40:42 America/Mexico_City] Default exception handler: Excepción - Call to undefined function getMoodlePdoConnection() Debug: 
+Error code: generalexceptionmessage
+* line 11 of /cook/blank2.php: Error thrown
+
+[06-Sep-2024 11:42:12 America/Mexico_City] Default exception handler: Excepción - Call to undefined function getMoodlePdoConnection() Debug: 
+Error code: generalexceptionmessage
+* line 11 of /cook/blank2.php: Error thrown
+
+[06-Sep-2024 11:43:58 America/Mexico_City] Default exception handler: Excepción - core_renderer::user_picture(): Argument #1 ($user) must be of type stdClass, null given, called in [dirroot]/cook/blank.php on line 22 Debug: 
+Error code: generalexceptionmessage
+* line 2720 of /lib/outputrenderers.php: TypeError thrown
+* line 22 of /cook/blank.php: call to core_renderer->user_picture()
+
+[06-Sep-2024 11:44:01 America/Mexico_City] Default exception handler: Excepción - core_renderer::user_picture(): Argument #1 ($user) must be of type stdClass, null given, called in [dirroot]/cook/blank.php on line 22 Debug: 
+Error code: generalexceptionmessage
+* line 2720 of /lib/outputrenderers.php: TypeError thrown
+* line 22 of /cook/blank.php: call to core_renderer->user_picture()
+
+[06-Sep-2024 17:49:22 UTC] PHP Warning:  require_once(/home/universidadmondr/public_html/cook/config.php): Failed to open stream: No such file or directory in /home/universidadmondr/public_html/cook/blank2.php on line 2
+[06-Sep-2024 17:49:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/universidadmondr/public_html/cook/config.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/universidadmondr/public_html/cook/blank2.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/universidadmondr/public_html/cook/blank2.php on line 2
+[06-Sep-2024 11:49:49 America/Mexico_City] Default exception handler: Excepción - Failed opening required '[dirroot]/cook/config.php' (include_path='[dirroot]/lib/pear:.:/opt/cpanel/ea-php82/root/usr/share/pear') Debug: 
+Error code: generalexceptionmessage
+* line 4 of /cook/dbo.php: Error thrown
+* line 9 of /cook/blank2.php: call to getMoodlePdoConnection()
+
+[06-Sep-2024 11:52:10 America/Mexico_City] Default exception handler: Excepción - Class "Autodiagnostico" not found Debug: 
+Error code: generalexceptionmessage
+* line 14 of /cook/blank2.php: Error thrown
+
+[06-Sep-2024 12:12:06 America/Mexico_City] Default exception handler: Excepción - Class "Mapa" not found Debug: 
+Error code: generalexceptionmessage
+* line 16 of /cook/blank2.php: Error thrown
+
+[06-Sep-2024 12:12:25 America/Mexico_City] Default exception handler: Debe especificar Id de curso, nombre corto o Número de Id Debug: 
+Error code: unspecifycourseid
+* line 2892 of /lib/deprecatedlib.php: moodle_exception thrown
+* line 101 of /cook/mapa.php: call to print_error()
+* line 7 of /cook/blank2.php: call to require_once()
+
+[06-Sep-2024 12:12:45 America/Mexico_City] Default exception handler: Debe especificar Id de curso, nombre corto o Número de Id Debug: 
+Error code: unspecifycourseid
+* line 2892 of /lib/deprecatedlib.php: moodle_exception thrown
+* line 101 of /cook/mapa.php: call to print_error()
+* line 7 of /cook/blank2.php: call to require_once()
+
+[06-Sep-2024 12:12:57 America/Mexico_City] Default exception handler: Debe especificar Id de curso, nombre corto o Número de Id Debug: 
+Error code: unspecifycourseid
+* line 2892 of /lib/deprecatedlib.php: moodle_exception thrown
+* line 101 of /cook/mapa.php: call to print_error()
+* line 7 of /cook/blank2.php: call to require_once()
+
+[06-Sep-2024 12:13:36 America/Mexico_City] Default exception handler: Debe especificar Id de curso, nombre corto o Número de Id Debug: 
+Error code: unspecifycourseid
+* line 2892 of /lib/deprecatedlib.php: moodle_exception thrown
+* line 101 of /cook/mapa.php: call to print_error()
+* line 7 of /cook/blank2.php: call to require_once()
+
+[06-Sep-2024 12:14:11 America/Mexico_City] Default exception handler: Debe especificar Id de curso, nombre corto o Número de Id Debug: 
+Error code: unspecifycourseid
+* line 2892 of /lib/deprecatedlib.php: moodle_exception thrown
+* line 101 of /cook/mapa.php: call to print_error()
+* line 7 of /cook/blank2.php: call to require_once()
+
+[06-Sep-2024 12:29:39 America/Mexico_City] Default exception handler: Debe especificar Id de curso, nombre corto o Número de Id Debug: 
+Error code: unspecifycourseid
+* line 2892 of /lib/deprecatedlib.php: moodle_exception thrown
+* line 101 of /cook/mapa.php: call to print_error()
+* line 7 of /cook/blank2.php: call to require_once()
+
+[06-Sep-2024 12:29:39 America/Mexico_City] Default exception handler: Debe especificar Id de curso, nombre corto o Número de Id Debug: 
+Error code: unspecifycourseid
+* line 2892 of /lib/deprecatedlib.php: moodle_exception thrown
+* line 101 of /cook/mapa.php: call to print_error()
+* line 7 of /cook/blank2.php: call to require_once()
+
+[06-Sep-2024 12:31:06 America/Mexico_City] Default exception handler: Excepción - core_renderer::user_picture(): Argument #1 ($user) must be of type stdClass, null given, called in [dirroot]/cook/blank.php on line 22 Debug: 
+Error code: generalexceptionmessage
+* line 2720 of /lib/outputrenderers.php: TypeError thrown
+* line 22 of /cook/blank.php: call to core_renderer->user_picture()
+
+[06-Sep-2024 12:40:32 America/Mexico_City] Default exception handler: Debe especificar Id de curso, nombre corto o Número de Id Debug: 
+Error code: unspecifycourseid
+* line 2892 of /lib/deprecatedlib.php: moodle_exception thrown
+* line 101 of /cook/mapa.php: call to print_error()
+* line 7 of /cook/blank2.php: call to require_once()
+
+[06-Sep-2024 12:40:33 America/Mexico_City] Default exception handler: Debe especificar Id de curso, nombre corto o Número de Id Debug: 
+Error code: unspecifycourseid
+* line 2892 of /lib/deprecatedlib.php: moodle_exception thrown
+* line 101 of /cook/mapa.php: call to print_error()
+* line 7 of /cook/blank2.php: call to require_once()
+
+[06-Sep-2024 12:40:59 America/Mexico_City] Default exception handler: Debe especificar Id de curso, nombre corto o Número de Id Debug: 
+Error code: unspecifycourseid
+* line 2892 of /lib/deprecatedlib.php: moodle_exception thrown
+* line 101 of /cook/mapa.php: call to print_error()
+* line 7 of /cook/blank2.php: call to require_once()
+
+[06-Sep-2024 12:41:42 America/Mexico_City] Default exception handler: Debe especificar Id de curso, nombre corto o Número de Id Debug: 
+Error code: unspecifycourseid
+* line 2892 of /lib/deprecatedlib.php: moodle_exception thrown
+* line 101 of /cook/mapa.php: call to print_error()
+* line 7 of /cook/blank2.php: call to require_once()
+
+[06-Sep-2024 12:41:47 America/Mexico_City] Default exception handler: Debe especificar Id de curso, nombre corto o Número de Id Debug: 
+Error code: unspecifycourseid
+* line 2892 of /lib/deprecatedlib.php: moodle_exception thrown
+* line 101 of /cook/mapa.php: call to print_error()
+* line 7 of /cook/blank2.php: call to require_once()
+
+[06-Sep-2024 12:42:25 America/Mexico_City] Default exception handler: Excepción - core_renderer::user_picture(): Argument #1 ($user) must be of type stdClass, null given, called in [dirroot]/cook/blank.php on line 22 Debug: 
+Error code: generalexceptionmessage
+* line 2720 of /lib/outputrenderers.php: TypeError thrown
+* line 22 of /cook/blank.php: call to core_renderer->user_picture()
+
+[06-Sep-2024 12:42:26 America/Mexico_City] Default exception handler: Excepción - core_renderer::user_picture(): Argument #1 ($user) must be of type stdClass, null given, called in [dirroot]/cook/blank.php on line 22 Debug: 
+Error code: generalexceptionmessage
+* line 2720 of /lib/outputrenderers.php: TypeError thrown
+* line 22 of /cook/blank.php: call to core_renderer->user_picture()
+
+[06-Sep-2024 12:43:35 America/Mexico_City] Default exception handler: Debe especificar Id de curso, nombre corto o Número de Id Debug: 
+Error code: unspecifycourseid
+* line 2892 of /lib/deprecatedlib.php: moodle_exception thrown
+* line 101 of /cook/mapa.php: call to print_error()
+* line 7 of /cook/blank2.php: call to require_once()
+
+[06-Sep-2024 12:43:37 America/Mexico_City] Default exception handler: Debe especificar Id de curso, nombre corto o Número de Id Debug: 
+Error code: unspecifycourseid
+* line 2892 of /lib/deprecatedlib.php: moodle_exception thrown
+* line 101 of /cook/mapa.php: call to print_error()
+* line 7 of /cook/blank2.php: call to require_once()
+
+[06-Sep-2024 12:44:28 America/Mexico_City] Default exception handler: Debe especificar Id de curso, nombre corto o Número de Id Debug: 
+Error code: unspecifycourseid
+* line 2892 of /lib/deprecatedlib.php: moodle_exception thrown
+* line 101 of /cook/mapa.php: call to print_error()
+* line 7 of /cook/blank2.php: call to require_once()
+
+[06-Sep-2024 12:45:09 America/Mexico_City] Default exception handler: Debe especificar Id de curso, nombre corto o Número de Id Debug: 
+Error code: unspecifycourseid
+* line 2892 of /lib/deprecatedlib.php: moodle_exception thrown
+* line 101 of /cook/mapa.php: call to print_error()
+* line 7 of /cook/blank2.php: call to require_once()
+
+[06-Sep-2024 15:02:28 America/Mexico_City] Default exception handler: Excepción - Too few arguments to function mapa::get_user_rol_courses(), 0 passed in [dirroot]/cook/mapa_class.php on line 24 and exactly 1 expected Debug: 
+Error code: generalexceptionmessage
+* line 191 of /cook/mapa_class.php: ArgumentCountError thrown
+* line 24 of /cook/mapa_class.php: call to mapa->get_user_rol_courses()
+* line 31 of /cook/blank2.php: call to mapa->generate_lime_time_items()
+
+[06-Sep-2024 15:03:35 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token "global", expecting "function" or "const" Debug: 
+Error code: generalexceptionmessage
+* line 6 of /cook/mapa_class.php: ParseError thrown
+
+[06-Sep-2024 15:04:04 America/Mexico_City] Default exception handler: Excepción - Call to a member function get_records_sql() on null Debug: 
+Error code: generalexceptionmessage
+* line 209 of /cook/mapa_class.php: Error thrown
+* line 24 of /cook/mapa_class.php: call to mapa->get_user_rol_courses()
+* line 31 of /cook/blank2.php: call to mapa->generate_lime_time_items()
+
+[06-Sep-2024 15:04:29 America/Mexico_City] Default exception handler: Excepción - Call to undefined function get_user_rol_courses() Debug: 
+Error code: generalexceptionmessage
+* line 24 of /cook/mapa_class.php: Error thrown
+* line 31 of /cook/blank2.php: call to mapa->generate_lime_time_items()
+
+[06-Sep-2024 15:07:31 America/Mexico_City] Default exception handler: Excepción - Call to undefined method mapa::uno_method() Debug: 
+Error code: generalexceptionmessage
+* line 24 of /cook/mapa_class.php: Error thrown
+* line 31 of /cook/blank2.php: call to mapa->generate_lime_time_items()
+
+[06-Sep-2024 15:07:49 America/Mexico_City] Default exception handler: Excepción - Call to a member function get_records_sql() on null Debug: 
+Error code: generalexceptionmessage
+* line 209 of /cook/mapa_class.php: Error thrown
+* line 24 of /cook/mapa_class.php: call to mapa->get_user_rol_courses()
+* line 31 of /cook/blank2.php: call to mapa->generate_lime_time_items()
+
+[06-Sep-2024 15:09:04 America/Mexico_City] Default exception handler: Error al leer de la base de datos Debug: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 15
+SELECT
+                  c.id AS course_id,
+                  c.fullname AS course_name,
+                  cc.id AS category_id,
+                  cc.name AS category_name
+              FROM
+                  mdl_user_enrolments ue
+              JOIN
+                  mdl_enrol e ON ue.enrolid = e.id
+              JOIN
+                  mdl_course c ON e.courseid = c.id
+              JOIN
+                  mdl_course_categories cc ON c.category = cc.id
+              WHERE
+                  ue.userid = ;
+[array (
+)]
+Error code: dmlreadexception
+* line 494 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1398 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 209 of /cook/mapa_class.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 24 of /cook/mapa_class.php: call to mapa->get_user_rol_courses()
+* line 31 of /cook/blank2.php: call to mapa->generate_lime_time_items()
+
+[06-Sep-2024 15:12:35 America/Mexico_City] Default exception handler: Excepción - Object of class stdClass could not be converted to string Debug: 
+Error code: generalexceptionmessage
+* line 208 of /cook/mapa_class.php: Error thrown
+* line 25 of /cook/mapa_class.php: call to mapa->get_user_rol_courses()
+* line 31 of /cook/blank2.php: call to mapa->generate_lime_time_items()
+
+[06-Sep-2024 15:37:12 America/Mexico_City] Default exception handler: Error al leer de la base de datos Debug: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY
+                      cc.sortorder,
+                      c.sortorder' at line 18
+SELECT
+                  c.id AS course_id,
+                  c.fullname AS course_name,
+                  cc.id AS category_id,
+                  cc.name AS category_name,
+                  c.sortorder AS course_sortorder,
+                  cc.sortorder AS category_sortorder,
+                  c.parent AS parent_category_id
+              FROM
+                  mdl_user_enrolments ue
+              JOIN
+                  mdl_enrol e ON ue.enrolid = e.id
+              JOIN
+                  mdl_course c ON e.courseid = c.id
+              JOIN
+                  mdl_course_categories cc ON c.category = cc.id
+              WHERE
+                  ue.userid = 2ORDER BY
+                      cc.sortorder,
+                      c.sortorder;
+[array (
+)]
+Error code: dmlreadexception
+* line 494 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1398 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 216 of /cook/mapa_class.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 25 of /cook/mapa_class.php: call to mapa->get_user_rol_courses()
+* line 31 of /cook/blank2.php: call to mapa->generate_lime_time_items()
+
+[06-Sep-2024 15:37:24 America/Mexico_City] Default exception handler: Error al leer de la base de datos Debug: Unknown column 'c.parent' in 'field list'
+SELECT
+                  c.id AS course_id,
+                  c.fullname AS course_name,
+                  cc.id AS category_id,
+                  cc.name AS category_name,
+                  c.sortorder AS course_sortorder,
+                  cc.sortorder AS category_sortorder,
+                  c.parent AS parent_category_id
+              FROM
+                  mdl_user_enrolments ue
+              JOIN
+                  mdl_enrol e ON ue.enrolid = e.id
+              JOIN
+                  mdl_course c ON e.courseid = c.id
+              JOIN
+                  mdl_course_categories cc ON c.category = cc.id
+              WHERE
+                  ue.userid = 2 ORDER BY
+                      cc.sortorder,
+                      c.sortorder;
+[array (
+)]
+Error code: dmlreadexception
+* line 494 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1398 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 216 of /cook/mapa_class.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 25 of /cook/mapa_class.php: call to mapa->get_user_rol_courses()
+* line 31 of /cook/blank2.php: call to mapa->generate_lime_time_items()
+
+[06-Sep-2024 15:45:06 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token "}" Debug: 
+Error code: generalexceptionmessage
+* line 223 of /cook/mapa_class.php: ParseError thrown
+
+[06-Sep-2024 15:53:23 America/Mexico_City] Default exception handler: Excepción - Unsupported operand types: array + string Debug: 
+Error code: generalexceptionmessage
+* line 231 of /cook/mapa_class.php: TypeError thrown
+* line 25 of /cook/mapa_class.php: call to mapa->get_user_rol_courses()
+* line 31 of /cook/blank2.php: call to mapa->generate_lime_time_items()
+
+[06-Sep-2024 15:53:34 America/Mexico_City] Default exception handler: Excepción - Unsupported operand types: null + string Debug: 
+Error code: generalexceptionmessage
+* line 231 of /cook/mapa_class.php: TypeError thrown
+* line 25 of /cook/mapa_class.php: call to mapa->get_user_rol_courses()
+* line 31 of /cook/blank2.php: call to mapa->generate_lime_time_items()
+
+[06-Sep-2024 15:54:11 America/Mexico_City] Default exception handler: Excepción - Unsupported operand types: null + string Debug: 
+Error code: generalexceptionmessage
+* line 231 of /cook/mapa_class.php: TypeError thrown
+* line 25 of /cook/mapa_class.php: call to mapa->get_user_rol_courses()
+* line 31 of /cook/blank2.php: call to mapa->generate_lime_time_items()
+
+[06-Sep-2024 15:58:12 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token "}" Debug: 
+Error code: generalexceptionmessage
+* line 233 of /cook/mapa_class.php: ParseError thrown
+
+[06-Sep-2024 16:09:06 America/Mexico_City] Default exception handler: Excepción - Object of class stdClass could not be converted to string Debug: 
+Error code: generalexceptionmessage
+* line 244 of /cook/mapa_class.php: Error thrown
+* line 25 of /cook/mapa_class.php: call to mapa->get_user_rol_courses()
+* line 31 of /cook/blank2.php: call to mapa->generate_lime_time_items()
+
+[06-Sep-2024 16:33:18 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token "&lt;" Debug: 
+Error code: generalexceptionmessage
+* line 113 of /cook/mapa_class.php: ParseError thrown
+
+[06-Sep-2024 16:33:47 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token "&lt;" Debug: 
+Error code: generalexceptionmessage
+* line 113 of /cook/mapa_class.php: ParseError thrown
+
+[09-Sep-2024 08:48:11 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token "(object)" Debug: 
+Error code: generalexceptionmessage
+* line 70 of /cook/mapa_class.php: ParseError thrown
+
+[09-Sep-2024 08:48:29 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token ")", expecting "-&gt;" or "?-&gt;" or "{" or "[" Debug: 
+Error code: generalexceptionmessage
+* line 70 of /cook/mapa_class.php: ParseError thrown
+
+[09-Sep-2024 09:06:48 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token "==" Debug: 
+Error code: generalexceptionmessage
+* line 84 of /cook/mapa_class.php: ParseError thrown
+
+[09-Sep-2024 09:07:08 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token "==" Debug: 
+Error code: generalexceptionmessage
+* line 84 of /cook/mapa_class.php: ParseError thrown
+
+[09-Sep-2024 09:37:03 America/Mexico_City] Default exception handler: Excepción - Call to undefined function dd() Debug: 
+Error code: generalexceptionmessage
+* line 92 of /cook/mapa_class.php: Error thrown
+* line 31 of /cook/blank2.php: call to mapa->generate_lime_time_items()
+
+[09-Sep-2024 13:57:00 America/Mexico_City] Default exception handler: Excepción - Too few arguments to function mapa::view_render_modulos(), 0 passed in [dirroot]/cook/course_mod.php on line 40 and exactly 1 expected Debug: 
+Error code: generalexceptionmessage
+* line 257 of /cook/mapa_class.php: ArgumentCountError thrown
+* line 40 of /cook/course_mod.php: call to mapa->view_render_modulos()
+
+[09-Sep-2024 13:57:29 America/Mexico_City] Default exception handler: Excepción - Too few arguments to function mapa::view_render_modulos(), 0 passed in [dirroot]/cook/course_mod.php on line 40 and exactly 1 expected Debug: 
+Error code: generalexceptionmessage
+* line 257 of /cook/mapa_class.php: ArgumentCountError thrown
+* line 40 of /cook/course_mod.php: call to mapa->view_render_modulos()
+
+[09-Sep-2024 13:57:49 America/Mexico_City] Default exception handler: Excepción - Too few arguments to function mapa::view_render_modulos(), 0 passed in [dirroot]/cook/course_mod.php on line 40 and exactly 1 expected Debug: 
+Error code: generalexceptionmessage
+* line 257 of /cook/mapa_class.php: ArgumentCountError thrown
+* line 40 of /cook/course_mod.php: call to mapa->view_render_modulos()
+
+[09-Sep-2024 13:58:05 America/Mexico_City] Default exception handler: Excepción - Too few arguments to function mapa::view_render_modulos(), 0 passed in [dirroot]/cook/course_mod.php on line 40 and exactly 1 expected Debug: 
+Error code: generalexceptionmessage
+* line 257 of /cook/mapa_class.php: ArgumentCountError thrown
+* line 40 of /cook/course_mod.php: call to mapa->view_render_modulos()
+
+[09-Sep-2024 13:58:10 America/Mexico_City] Default exception handler: Excepción - Too few arguments to function mapa::view_render_modulos(), 0 passed in [dirroot]/cook/course_mod.php on line 40 and exactly 1 expected Debug: 
+Error code: generalexceptionmessage
+* line 257 of /cook/mapa_class.php: ArgumentCountError thrown
+* line 40 of /cook/course_mod.php: call to mapa->view_render_modulos()
+
+[09-Sep-2024 13:59:02 America/Mexico_City] Default exception handler: Excepción - Too few arguments to function mapa::view_render_modulos(), 0 passed in [dirroot]/cook/course_mod.php on line 40 and exactly 1 expected Debug: 
+Error code: generalexceptionmessage
+* line 257 of /cook/mapa_class.php: ArgumentCountError thrown
+* line 40 of /cook/course_mod.php: call to mapa->view_render_modulos()
+
+[09-Sep-2024 14:01:40 America/Mexico_City] Default exception handler: Excepción - Too few arguments to function mapa::view_render_modulos(), 0 passed in [dirroot]/cook/course_mod.php on line 46 and exactly 1 expected Debug: 
+Error code: generalexceptionmessage
+* line 257 of /cook/mapa_class.php: ArgumentCountError thrown
+* line 46 of /cook/course_mod.php: call to mapa->view_render_modulos()
+
+[09-Sep-2024 14:02:05 America/Mexico_City] Default exception handler: Error al leer de la base de datos Debug: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and cc.category_id = 
+                  ORDER BY
+                      cc.sortor' at line 21
+SELECT
+                      c.id AS course_id,
+                      c.fullname AS course_name,
+                      cc.id AS category_id,
+                      cc.name AS category_name,
+                      c.sortorder AS course_sortorder,
+                      cc.sortorder AS category_sortorder,
+                      c2.id AS parent_category_id,
+                      c2.name AS parent_category_name
+                  FROM
+                      mdl_user_enrolments ue
+                  JOIN
+                      mdl_enrol e ON ue.enrolid = e.id
+                  JOIN
+                      mdl_course c ON e.courseid = c.id
+                  JOIN
+                      mdl_course_categories cc ON c.category = cc.id
+                  LEFT JOIN
+                      mdl_course_categories c2 ON cc.parent = c2.id  -- Unir con la tabla de categorías para obtener la categoría padre
+                  WHERE
+                      ue.userid =  and cc.category_id = 
+                  ORDER BY
+                      cc.sortorder,          -- Ordenar primero por el orden de las categorías
+                      c.sortorder; 
+[array (
+)]
+Error code: dmlreadexception
+* line 494 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1398 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 252 of /cook/mapa_class.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 259 of /cook/mapa_class.php: call to mapa->get_courses_modulos()
+* line 46 of /cook/course_mod.php: call to mapa->view_render_modulos()
+
+[09-Sep-2024 14:03:52 America/Mexico_City] Default exception handler: Error al leer de la base de datos Debug: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and cc.category_id = 22
+                  ORDER BY
+                      cc.sort' at line 21
+SELECT
+                      c.id AS course_id,
+                      c.fullname AS course_name,
+                      cc.id AS category_id,
+                      cc.name AS category_name,
+                      c.sortorder AS course_sortorder,
+                      cc.sortorder AS category_sortorder,
+                      c2.id AS parent_category_id,
+                      c2.name AS parent_category_name
+                  FROM
+                      mdl_user_enrolments ue
+                  JOIN
+                      mdl_enrol e ON ue.enrolid = e.id
+                  JOIN
+                      mdl_course c ON e.courseid = c.id
+                  JOIN
+                      mdl_course_categories cc ON c.category = cc.id
+                  LEFT JOIN
+                      mdl_course_categories c2 ON cc.parent = c2.id  -- Unir con la tabla de categorías para obtener la categoría padre
+                  WHERE
+                      ue.userid =  and cc.category_id = 22
+                  ORDER BY
+                      cc.sortorder,          -- Ordenar primero por el orden de las categorías
+                      c.sortorder; 
+[array (
+)]
+Error code: dmlreadexception
+* line 494 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1398 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 252 of /cook/mapa_class.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 260 of /cook/mapa_class.php: call to mapa->get_courses_modulos()
+* line 46 of /cook/course_mod.php: call to mapa->view_render_modulos()
+
+[09-Sep-2024 14:04:30 America/Mexico_City] Default exception handler: Error al leer de la base de datos Debug: Unknown column 'cc.category_id' in 'where clause'
+SELECT
+                      c.id AS course_id,
+                      c.fullname AS course_name,
+                      cc.id AS category_id,
+                      cc.name AS category_name,
+                      c.sortorder AS course_sortorder,
+                      cc.sortorder AS category_sortorder,
+                      c2.id AS parent_category_id,
+                      c2.name AS parent_category_name
+                  FROM
+                      mdl_user_enrolments ue
+                  JOIN
+                      mdl_enrol e ON ue.enrolid = e.id
+                  JOIN
+                      mdl_course c ON e.courseid = c.id
+                  JOIN
+                      mdl_course_categories cc ON c.category = cc.id
+                  LEFT JOIN
+                      mdl_course_categories c2 ON cc.parent = c2.id  -- Unir con la tabla de categorías para obtener la categoría padre
+                  WHERE
+                      ue.userid = 2 and cc.category_id = 22
+                  ORDER BY
+                      cc.sortorder,          -- Ordenar primero por el orden de las categorías
+                      c.sortorder; 
+[array (
+)]
+Error code: dmlreadexception
+* line 494 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1398 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 252 of /cook/mapa_class.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 260 of /cook/mapa_class.php: call to mapa->get_courses_modulos()
+* line 46 of /cook/course_mod.php: call to mapa->view_render_modulos()
+
+[09-Sep-2024 14:09:29 America/Mexico_City] Default exception handler: Error al leer de la base de datos Debug: Unknown column 'cc.category_id' in 'where clause'
+SELECT
+                      c.id AS course_id,
+                      c.fullname AS course_name,
+                      cc.id AS category_id,
+                      cc.name AS category_name,
+                      c.sortorder AS course_sortorder,
+                      cc.sortorder AS category_sortorder,
+                      c2.id AS parent_category_id,
+                      c2.name AS parent_category_name
+                  FROM
+                      mdl_user_enrolments ue
+                  JOIN
+                      mdl_enrol e ON ue.enrolid = e.id
+                  JOIN
+                      mdl_course c ON e.courseid = c.id
+                  JOIN
+                      mdl_course_categories cc ON c.category = cc.id
+                  LEFT JOIN
+                      mdl_course_categories c2 ON cc.parent = c2.id  -- Unir con la tabla de categorías para obtener la categoría padre
+                  WHERE
+                      ue.userid = 2 and cc.category_id = 22
+                  ORDER BY
+                      cc.sortorder,          -- Ordenar primero por el orden de las categorías
+                      c.sortorder; 
+[array (
+)]
+Error code: dmlreadexception
+* line 494 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1398 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 252 of /cook/mapa_class.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 261 of /cook/mapa_class.php: call to mapa->get_courses_modulos()
+* line 46 of /cook/course_mod.php: call to mapa->view_render_modulos()
+
+[09-Sep-2024 14:09:57 America/Mexico_City] Default exception handler: Error al leer de la base de datos Debug: Unknown column 'cc.category_id' in 'where clause'
+SELECT
+                      c.id AS course_id,
+                      c.fullname AS course_name,
+                      cc.id AS category_id,
+                      cc.name AS category_name,
+                      c.sortorder AS course_sortorder,
+                      cc.sortorder AS category_sortorder,
+                      c2.id AS parent_category_id,
+                      c2.name AS parent_category_name
+                  FROM
+                      mdl_user_enrolments ue
+                  JOIN
+                      mdl_enrol e ON ue.enrolid = e.id
+                  JOIN
+                      mdl_course c ON e.courseid = c.id
+                  JOIN
+                      mdl_course_categories cc ON c.category = cc.id
+                  LEFT JOIN
+                      mdl_course_categories c2 ON cc.parent = c2.id  
+                  WHERE
+                      ue.userid = 2 and cc.category_id = 22
+                  ORDER BY
+                      cc.sortorder,
+                      c.sortorder; 
+[array (
+)]
+Error code: dmlreadexception
+* line 494 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1398 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 252 of /cook/mapa_class.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 261 of /cook/mapa_class.php: call to mapa->get_courses_modulos()
+* line 46 of /cook/course_mod.php: call to mapa->view_render_modulos()
+
+[09-Sep-2024 14:10:50 America/Mexico_City] Default exception handler: Error al leer de la base de datos Debug: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY
+                      cc.sortorder,          -- Ordenar primero por el ' at line 22
+SELECT
+                      c.id AS course_id,
+                      c.fullname AS course_name,
+                      cc.id AS category_id,
+                      cc.name AS category_name,
+                      c.sortorder AS course_sortorder,
+                      cc.sortorder AS category_sortorder,
+                      c2.id AS parent_category_id,
+                      c2.name AS parent_category_name
+                  FROM
+                      mdl_user_enrolments ue
+                  JOIN
+                      mdl_enrol e ON ue.enrolid = e.id
+                  JOIN
+                      mdl_course c ON e.courseid = c.id
+                  JOIN
+                      mdl_course_categories cc ON c.category = cc.id
+                  LEFT JOIN
+                      mdl_course_categories c2 ON cc.parent = c2.id  -- Unir con la tabla de categorías para obtener la categoría padre
+                  WHERE
+                      ue.userid = 
+                  ORDER BY
+                      cc.sortorder,          -- Ordenar primero por el orden de las categorías
+                      c.sortorder;
+[array (
+)]
+Error code: dmlreadexception
+* line 494 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1398 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 252 of /cook/mapa_class.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 261 of /cook/mapa_class.php: call to mapa->get_courses_modulos()
+* line 46 of /cook/course_mod.php: call to mapa->view_render_modulos()
+
+[09-Sep-2024 14:11:16 America/Mexico_City] Default exception handler: Excepción - mysqli::query(): Argument #1 ($query) cannot be empty Debug: 
+Error code: generalexceptionmessage
+* line 1397 of /lib/dml/mysqli_native_moodle_database.php: ValueError thrown
+* line 1397 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli->query()
+* line 252 of /cook/mapa_class.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 261 of /cook/mapa_class.php: call to mapa->get_courses_modulos()
+* line 46 of /cook/course_mod.php: call to mapa->view_render_modulos()
+
+[09-Sep-2024 14:11:28 America/Mexico_City] Default exception handler: Error al leer de la base de datos Debug: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY
+                      cc.sortorder,          -- Ordenar primero por el ' at line 22
+SELECT
+                      c.id AS course_id,
+                      c.fullname AS course_name,
+                      cc.id AS category_id,
+                      cc.name AS category_name,
+                      c.sortorder AS course_sortorder,
+                      cc.sortorder AS category_sortorder,
+                      c2.id AS parent_category_id,
+                      c2.name AS parent_category_name
+                  FROM
+                      mdl_user_enrolments ue
+                  JOIN
+                      mdl_enrol e ON ue.enrolid = e.id
+                  JOIN
+                      mdl_course c ON e.courseid = c.id
+                  JOIN
+                      mdl_course_categories cc ON c.category = cc.id
+                  LEFT JOIN
+                      mdl_course_categories c2 ON cc.parent = c2.id  -- Unir con la tabla de categorías para obtener la categoría padre
+                  WHERE
+                      ue.userid = 
+                  ORDER BY
+                      cc.sortorder,          -- Ordenar primero por el orden de las categorías
+                      c.sortorder;
+[array (
+)]
+Error code: dmlreadexception
+* line 494 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1398 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 252 of /cook/mapa_class.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 261 of /cook/mapa_class.php: call to mapa->get_courses_modulos()
+* line 46 of /cook/course_mod.php: call to mapa->view_render_modulos()
+
+[09-Sep-2024 14:12:39 America/Mexico_City] Default exception handler: Error al leer de la base de datos Debug: Unknown column 'c.category_id' in 'where clause'
+SELECT
+                      c.id AS course_id,
+                      c.fullname AS course_name,
+                      cc.id AS category_id,
+                      cc.name AS category_name,
+                      c.sortorder AS course_sortorder,
+                      cc.sortorder AS category_sortorder,
+                      c2.id AS parent_category_id,
+                      c2.name AS parent_category_name
+                  FROM
+                      mdl_user_enrolments ue
+                  JOIN
+                      mdl_enrol e ON ue.enrolid = e.id
+                  JOIN
+                      mdl_course c ON e.courseid = c.id
+                  JOIN
+                      mdl_course_categories cc ON c.category = cc.id
+                  LEFT JOIN
+                      mdl_course_categories c2 ON cc.parent = c2.id
+                  WHERE
+                      ue.userid = 2 and c.category_id = 22
+                  ORDER BY
+                      cc.sortorder,
+                      c.sortorder;
+[array (
+)]
+Error code: dmlreadexception
+* line 494 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1398 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 252 of /cook/mapa_class.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 261 of /cook/mapa_class.php: call to mapa->get_courses_modulos()
+* line 46 of /cook/course_mod.php: call to mapa->view_render_modulos()
+
+[09-Sep-2024 14:12:59 America/Mexico_City] Default exception handler: Error al leer de la base de datos Debug: Unknown column 'cc.category_id' in 'where clause'
+SELECT
+                      c.id AS course_id,
+                      c.fullname AS course_name,
+                      cc.id AS category_id,
+                      cc.name AS category_name,
+                      c.sortorder AS course_sortorder,
+                      cc.sortorder AS category_sortorder,
+                      c2.id AS parent_category_id,
+                      c2.name AS parent_category_name
+                  FROM
+                      mdl_user_enrolments ue
+                  JOIN
+                      mdl_enrol e ON ue.enrolid = e.id
+                  JOIN
+                      mdl_course c ON e.courseid = c.id
+                  JOIN
+                      mdl_course_categories cc ON c.category = cc.id
+                  LEFT JOIN
+                      mdl_course_categories c2 ON cc.parent = c2.id
+                  WHERE
+                      ue.userid = 2 and cc.category_id = 22
+                  ORDER BY
+                      cc.sortorder,
+                      c.sortorder;
+[array (
+)]
+Error code: dmlreadexception
+* line 494 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1398 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 252 of /cook/mapa_class.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 261 of /cook/mapa_class.php: call to mapa->get_courses_modulos()
+* line 46 of /cook/course_mod.php: call to mapa->view_render_modulos()
+
+[09-Sep-2024 14:18:09 America/Mexico_City] Default exception handler: Excepción - Object of class stdClass could not be converted to string Debug: 
+Error code: generalexceptionmessage
+* line 46 of /cook/course_mod.php: Error thrown
+
+[09-Sep-2024 14:18:28 America/Mexico_City] Default exception handler: Excepción - Object of class stdClass could not be converted to string Debug: 
+Error code: generalexceptionmessage
+* line 46 of /cook/course_mod.php: Error thrown
+
+[09-Sep-2024 14:30:02 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected identifier "grid" Debug: 
+Error code: generalexceptionmessage
+* line 300 of /cook/mapa_class.php: ParseError thrown
+
+[09-Sep-2024 14:30:17 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected identifier "grid" Debug: 
+Error code: generalexceptionmessage
+* line 300 of /cook/mapa_class.php: ParseError thrown
+
+[09-Sep-2024 14:46:02 America/Mexico_City] Default exception handler: Excepción - Call to undefined function get_category_name() Debug: 
+Error code: generalexceptionmessage
+* line 288 of /cook/mapa_class.php: Error thrown
+* line 46 of /cook/course_mod.php: call to mapa->view_render_modulos()
+
+[09-Sep-2024 14:47:16 America/Mexico_City] Default exception handler: Error al leer de la base de datos Debug: Unknown column 'c.category' in 'where clause'
+SELECT
+                      *
+                  FROM
+                      mdl_course_categories cc
+                  WHERE
+                      c.category = 31
+                  ORDER BY
+                      c.sortorder;
+[array (
+)]
+Error code: dmlreadexception
+* line 494 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1398 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 281 of /cook/mapa_class.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 288 of /cook/mapa_class.php: call to mapa->get_category_name()
+* line 46 of /cook/course_mod.php: call to mapa->view_render_modulos()
+
+[09-Sep-2024 14:51:00 America/Mexico_City] Default exception handler: Error al leer de la base de datos Debug: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ON c.category = cc.id
+                  WHERE
+                      c.id = 31
+  ' at line 4
+SELECT
+                      *
+                  FROM
+                      mdl_course_categories cc ON c.category = cc.id
+                  WHERE
+                      c.id = 31
+                  ORDER BY
+                      cc.sortorder;
+[array (
+)]
+Error code: dmlreadexception
+* line 494 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1398 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 281 of /cook/mapa_class.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 288 of /cook/mapa_class.php: call to mapa->get_category_name()
+* line 46 of /cook/course_mod.php: call to mapa->view_render_modulos()
+
+[10-Sep-2024 08:49:54 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected variable "$array_images_m1_red" Debug: 
+Error code: generalexceptionmessage
+* line 327 of /cook/mapa_class.php: ParseError thrown
+
+[10-Sep-2024 08:50:36 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token "}" Debug: 
+Error code: generalexceptionmessage
+* line 367 of /cook/mapa_class.php: ParseError thrown
+
+[10-Sep-2024 09:15:59 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected double-quoted string " alt=" Debug: 
+Error code: generalexceptionmessage
+* line 364 of /cook/mapa_class.php: ParseError thrown
+
+[10-Sep-2024 09:17:19 America/Mexico_City] Default exception handler: Excepción - Call to undefined function var_dujmp() Debug: 
+Error code: generalexceptionmessage
+* line 357 of /cook/mapa_class.php: Error thrown
+* line 46 of /cook/course_mod.php: call to mapa->view_render_modulos()
+
+[10-Sep-2024 09:21:31 America/Mexico_City] Default exception handler: Excepción - Cannot use object of type stdClass as array Debug: 
+Error code: generalexceptionmessage
+* line 359 of /cook/mapa_class.php: Error thrown
+* line 46 of /cook/course_mod.php: call to mapa->view_render_modulos()
+
+[10-Sep-2024 09:28:28 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token "}", expecting ";" Debug: 
+Error code: generalexceptionmessage
+* line 353 of /cook/mapa_class.php: ParseError thrown
+
+[10-Sep-2024 11:20:46 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected string content " Debug: 
+Error code: generalexceptionmessage
+* line 102 of /cook/mapa_class.php: ParseError thrown
+
+[10-Sep-2024 12:40:10 America/Mexico_City] Default exception handler: Excepción - Call to undefined method completion_info::get_course_completion_status() Debug: 
+Error code: generalexceptionmessage
+* line 76 of /cook/mapa_class.php: Error thrown
+* line 461 of /cook/mapa_class.php: call to mapa->obtener_porcentaje_avance()
+* line 45 of /cook/course_mod.php: call to mapa->view_render_modulos()
+
+[10-Sep-2024 12:43:05 America/Mexico_City] Default exception handler: Error al leer de la base de datos Debug: Unknown column 'coursemodule' in 'where clause'
+SELECT * FROM mdl_course_modules_completion WHERE coursemodule = ? AND userid IS NULL
+[array (
+  0 => '3248',
+)]
+Error code: dmlreadexception
+* line 494 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1398 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 1684 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 1656 of /lib/dml/moodle_database.php: call to moodle_database->get_record_sql()
+* line 1635 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 81 of /cook/mapa_class.php: call to moodle_database->get_record()
+* line 462 of /cook/mapa_class.php: call to mapa->obtener_porcentaje_avance()
+* line 45 of /cook/course_mod.php: call to mapa->view_render_modulos()
+
+[10-Sep-2024 12:43:29 America/Mexico_City] Default exception handler: Error al leer de la base de datos Debug: Unknown column 'coursemodule' in 'where clause'
+SELECT * FROM mdl_course_modules_completion WHERE coursemodule = ? AND userid IS NULL
+[array (
+  0 => '3248',
+)]
+Error code: dmlreadexception
+* line 494 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1398 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 1684 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 1656 of /lib/dml/moodle_database.php: call to moodle_database->get_record_sql()
+* line 1635 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 81 of /cook/mapa_class.php: call to moodle_database->get_record()
+* line 462 of /cook/mapa_class.php: call to mapa->obtener_porcentaje_avance()
+* line 45 of /cook/course_mod.php: call to mapa->view_render_modulos()
+
+[10-Sep-2024 12:45:41 America/Mexico_City] Default exception handler: Error al leer de la base de datos Debug: Unknown column 'coursemodule' in 'where clause'
+SELECT * FROM mdl_course_modules_completion WHERE coursemodule = ? AND userid = ?
+[array (
+  0 => '3248',
+  1 => '2',
+)]
+Error code: dmlreadexception
+* line 494 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1398 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 1684 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 1656 of /lib/dml/moodle_database.php: call to moodle_database->get_record_sql()
+* line 1635 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 81 of /cook/mapa_class.php: call to moodle_database->get_record()
+* line 463 of /cook/mapa_class.php: call to mapa->obtener_porcentaje_avance()
+* line 45 of /cook/course_mod.php: call to mapa->view_render_modulos()
+
+[10-Sep-2024 12:46:19 America/Mexico_City] Default exception handler: Error al leer de la base de datos Debug: Unknown column 'coursemodule' in 'where clause'
+SELECT * FROM mdl_course_modules_completion WHERE coursemodule = ? AND userid = ?
+[array (
+  0 => '3248',
+  1 => '2',
+)]
+Error code: dmlreadexception
+* line 494 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1398 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 1684 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 1656 of /lib/dml/moodle_database.php: call to moodle_database->get_record_sql()
+* line 1635 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 81 of /cook/mapa_class.php: call to moodle_database->get_record()
+* line 463 of /cook/mapa_class.php: call to mapa->obtener_porcentaje_avance()
+* line 45 of /cook/course_mod.php: call to mapa->view_render_modulos()
+
+[10-Sep-2024 12:47:59 America/Mexico_City] Default exception handler: Error al leer de la base de datos Debug: Unknown column 'coursemodule' in 'where clause'
+SELECT * FROM mdl_course_modules_completion WHERE coursemodule = ? AND userid = ?
+[array (
+  0 => NULL,
+  1 => '2',
+)]
+Error code: dmlreadexception
+* line 494 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1398 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 1684 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 87 of /cook/mapa_class.php: call to moodle_database->get_record_sql()
+* line 472 of /cook/mapa_class.php: call to mapa->obtener_porcentaje_avance()
+* line 45 of /cook/course_mod.php: call to mapa->view_render_modulos()
+
+[10-Sep-2024 14:48:21 America/Mexico_City] Default exception handler: Excepción - Call to undefined function obtener_fecha_finalizacion_curso() Debug: 
+Error code: generalexceptionmessage
+* line 483 of /cook/mapa_class.php: Error thrown
+* line 45 of /cook/course_mod.php: call to mapa->view_render_modulos()
+
+[10-Sep-2024 14:56:02 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token "else", expecting "(" Debug: 
+Error code: generalexceptionmessage
+* line 111 of /cook/mapa_class.php: ParseError thrown
+
+[10-Sep-2024 15:42:24 America/Mexico_City] Default exception handler: Excepción - Call to undefined function var_dupm() Debug: 
+Error code: generalexceptionmessage
+* line 211 of /cook/mapa_class.php: Error thrown
+* line 40 of /cook/blank2.php: call to mapa->generate_lime_time_items()
+
+[10-Sep-2024 15:57:49 America/Mexico_City] Default exception handler: No se puede encontrar registro de datos en la tabla course de la base de datos. Debug: SELECT * FROM {course} WHERE id IS NULL
+[array (
+)]
+Error code: invalidrecord
+* line 1659 of /lib/dml/moodle_database.php: dml_missing_record_exception thrown
+* line 1635 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 61 of /cook/mapa_class.php: call to moodle_database->get_record()
+* line 216 of /cook/mapa_class.php: call to mapa->obtener_porcentaje_avance()
+* line 40 of /cook/blank2.php: call to mapa->generate_lime_time_items()
+
+[10-Sep-2024 16:08:36 America/Mexico_City] Default exception handler: Excepción - Division by zero Debug: 
+Error code: generalexceptionmessage
+* line 131 of /cook/mapa_class.php: DivisionByZeroError thrown
+* line 226 of /cook/mapa_class.php: call to mapa->get_avg_course_category_total()
+* line 40 of /cook/blank2.php: call to mapa->generate_lime_time_items()
+
+[10-Sep-2024 16:22:13 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected variable "$text_course" Debug: 
+Error code: generalexceptionmessage
+* line 230 of /cook/mapa_class.php: ParseError thrown
+
+[10-Sep-2024 16:55:53 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token "}" Debug: 
+Error code: generalexceptionmessage
+* line 243 of /cook/mapa_class.php: ParseError thrown
+
+[10-Sep-2024 16:56:17 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token ":", expecting ";" Debug: 
+Error code: generalexceptionmessage
+* line 243 of /cook/mapa_class.php: ParseError thrown
+
+[10-Sep-2024 16:56:28 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token ":", expecting ";" Debug: 
+Error code: generalexceptionmessage
+* line 249 of /cook/mapa_class.php: ParseError thrown
+
+[10-Sep-2024 16:56:41 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token ":", expecting ";" Debug: 
+Error code: generalexceptionmessage
+* line 249 of /cook/mapa_class.php: ParseError thrown
+
+[10-Sep-2024 17:08:05 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token "}" Debug: 
+Error code: generalexceptionmessage
+* line 244 of /cook/mapa_class.php: ParseError thrown
+
+[10-Sep-2024 17:40:41 America/Mexico_City] Default exception handler: Excepción - var_dump() expects at least 1 argument, 0 given Debug: 
+Error code: generalexceptionmessage
+* line 241 of /cook/mapa_class.php: ArgumentCountError thrown
+* line 241 of /cook/mapa_class.php: call to var_dump()
+* line 40 of /cook/blank2.php: call to mapa->generate_lime_time_items()
+
+[11-Sep-2024 08:17:35 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token "&amp;&amp;" Debug: 
+Error code: generalexceptionmessage
+* line 248 of /cook/mapa_class.php: ParseError thrown
+
+[11-Sep-2024 08:39:37 America/Mexico_City] Default exception handler: Excepción - Call to undefined function var_dupm() Debug: 
+Error code: generalexceptionmessage
+* line 227 of /cook/mapa_class.php: Error thrown
+* line 40 of /cook/blank2.php: call to mapa->generate_lime_time_items()
+
+[11-Sep-2024 12:10:46 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token "(", expecting variable Debug: 
+Error code: generalexceptionmessage
+* line 14 of /cook/autodiagnostico.php: ParseError thrown
+
+[11-Sep-2024 12:11:18 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token "(", expecting variable Debug: 
+Error code: generalexceptionmessage
+* line 14 of /cook/autodiagnostico.php: ParseError thrown
+
+[11-Sep-2024 12:11:44 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token "(", expecting variable Debug: 
+Error code: generalexceptionmessage
+* line 14 of /cook/autodiagnostico.php: ParseError thrown
+
+[11-Sep-2024 14:10:12 America/Mexico_City] Default exception handler: Excepción - Unterminated comment starting line 178 Debug: 
+Error code: generalexceptionmessage
+* line 178 of /cook/autodiagnostico.php: ParseError thrown
+
+[11-Sep-2024 14:12:08 America/Mexico_City] Default exception handler: Excepción - Unclosed '{' on line 87 Debug: 
+Error code: generalexceptionmessage
+* line 101 of /cook/autodiagnostico.php: ParseError thrown
+
+[11-Sep-2024 14:45:29 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token ",", expecting "]" Debug: 
+Error code: generalexceptionmessage
+* line 169 of /cook/autodiagnostico.php: ParseError thrown
+
+[11-Sep-2024 14:45:43 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token ",", expecting "]" Debug: 
+Error code: generalexceptionmessage
+* line 169 of /cook/autodiagnostico.php: ParseError thrown
+
+[11-Sep-2024 14:46:13 America/Mexico_City] Default exception handler: Excepción - Cannot access offset of type string on string Debug: 
+Error code: generalexceptionmessage
+* line 171 of /cook/autodiagnostico.php: TypeError thrown
+* line 40 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[11-Sep-2024 14:47:49 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token "=&gt;" Debug: 
+Error code: generalexceptionmessage
+* line 167 of /cook/autodiagnostico.php: ParseError thrown
+
+[11-Sep-2024 14:48:02 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token "=&gt;" Debug: 
+Error code: generalexceptionmessage
+* line 167 of /cook/autodiagnostico.php: ParseError thrown
+
+[11-Sep-2024 14:48:28 America/Mexico_City] Default exception handler: Excepción - Cannot access offset of type string on string Debug: 
+Error code: generalexceptionmessage
+* line 187 of /cook/autodiagnostico.php: TypeError thrown
+* line 40 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[11-Sep-2024 14:49:07 America/Mexico_City] Default exception handler: Excepción - Cannot access offset of type string on string Debug: 
+Error code: generalexceptionmessage
+* line 188 of /cook/autodiagnostico.php: TypeError thrown
+* line 40 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[11-Sep-2024 14:49:19 America/Mexico_City] Default exception handler: Excepción - Cannot access offset of type string on string Debug: 
+Error code: generalexceptionmessage
+* line 184 of /cook/autodiagnostico.php: TypeError thrown
+* line 40 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[11-Sep-2024 15:27:51 America/Mexico_City] Default exception handler: Excepción - Call to a member function get_records_sql() on null Debug: 
+Error code: generalexceptionmessage
+* line 59 of /cook/autodiagnostico.php: Error thrown
+* line 191 of /cook/autodiagnostico.php: call to Autodiagnostico->getQuestionsmodulos()
+* line 40 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[11-Sep-2024 15:28:27 America/Mexico_City] Default exception handler: Excepción - Call to a member function get_records_sql() on null Debug: 
+Error code: generalexceptionmessage
+* line 74 of /cook/autodiagnostico.php: Error thrown
+* line 206 of /cook/autodiagnostico.php: call to Autodiagnostico->getQuestionsmodulos()
+* line 40 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[11-Sep-2024 15:40:32 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token ";", expecting ")" Debug: 
+Error code: generalexceptionmessage
+* line 105 of /cook/autodiagnostico.php: ParseError thrown
+
+[11-Sep-2024 15:51:45 America/Mexico_City] Default exception handler: Error al leer de la base de datos Debug: Unknown column 'mdl_modulos.id' in 'on clause'
+SELECT * FROM mdl_Answer_autodiagnostico inner join mdl_questions_autodiagnostico on mdl_modulos.id = mdl_questions_autodiagnostico.module_assing;
+[array (
+)]
+Error code: dmlreadexception
+* line 494 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1398 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 74 of /cook/autodiagnostico.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 208 of /cook/autodiagnostico.php: call to Autodiagnostico->getQuestionsmodulos()
+* line 40 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[11-Sep-2024 16:07:03 America/Mexico_City] Default exception handler: Excepción - Too few arguments to function moodle_database::get_record(), 1 passed in [dirroot]/cook/autodiagnostico.php on line 72 and at least 2 expected Debug: 
+Error code: generalexceptionmessage
+* line 1633 of /lib/dml/moodle_database.php: ArgumentCountError thrown
+* line 72 of /cook/autodiagnostico.php: call to moodle_database->get_record()
+* line 206 of /cook/autodiagnostico.php: call to Autodiagnostico->getQuestionsmodulos()
+* line 40 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[11-Sep-2024 16:07:46 America/Mexico_City] Default exception handler: Detectado un error de codificación, debe ser corregido por un programador: moodle_database::execute() Multiple sql statements found or bound parameters not used properly in query! Debug: 
+Error code: codingerror
+* line 1285 of /lib/dml/mysqli_native_moodle_database.php: coding_exception thrown
+* line 72 of /cook/autodiagnostico.php: call to mysqli_native_moodle_database->execute()
+* line 206 of /cook/autodiagnostico.php: call to Autodiagnostico->getQuestionsmodulos()
+* line 40 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[11-Sep-2024 16:08:31 America/Mexico_City] Default exception handler: Detectado un error de codificación, debe ser corregido por un programador: moodle_database::execute() Multiple sql statements found or bound parameters not used properly in query! Debug: 
+Error code: codingerror
+* line 1285 of /lib/dml/mysqli_native_moodle_database.php: coding_exception thrown
+* line 72 of /cook/autodiagnostico.php: call to mysqli_native_moodle_database->execute()
+* line 206 of /cook/autodiagnostico.php: call to Autodiagnostico->getQuestionsmodulos()
+* line 40 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[11-Sep-2024 16:10:33 America/Mexico_City] Default exception handler: Error al leer de la base de datos Debug: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'mdl_Answer_autodiagnostico} ON mdl_Answer_autodiagnostico.Question_id = mdl_ques' at line 6
+SELECT mdl_modulos.Name_m, mdl_modulos.min_points, mdl_modulos.max_points, mdl_modulos.relative_activity_moodle,
+      mdl_questions_autodiagnostico.question_text, mdl_questions_autodiagnostico.type_answer,
+      mdl_Answer_autodiagnostico.Id, mdl_Answer_autodiagnostico.Answer_text, mdl_Answer_autodiagnostico.points
+      FROM mdl_mdl_modulos
+      INNER JOIN mdl_mdl_questions_autodiagnostico ON mdl_modulos.id = mdl_questions_autodiagnostico.module_assing
+      INNER JOIN {mdl_Answer_autodiagnostico} ON mdl_Answer_autodiagnostico.Question_id = mdl_questions_autodiagnostico.Id
+      ORDER BY mdl_modulos.id, mdl_questions_autodiagnostico.Id, mdl_Answer_autodiagnostico.Id
+[array (
+)]
+Error code: dmlreadexception
+* line 494 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1398 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 74 of /cook/autodiagnostico.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 213 of /cook/autodiagnostico.php: call to Autodiagnostico->getQuestionsmodulos()
+* line 40 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[11-Sep-2024 16:12:55 America/Mexico_City] Default exception handler: Excepción - Call to a member function query() on null Debug: 
+Error code: generalexceptionmessage
+* line 74 of /cook/autodiagnostico.php: Error thrown
+* line 215 of /cook/autodiagnostico.php: call to Autodiagnostico->getQuestionsmodulos()
+* line 40 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[11-Sep-2024 16:17:09 America/Mexico_City] Default exception handler: Excepción - Unclosed '{' on line 63 does not match ')' Debug: 
+Error code: generalexceptionmessage
+* line 75 of /cook/autodiagnostico.php: ParseError thrown
+
+[12-Sep-2024 08:48:22 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected single-quoted string "answer_id", expecting identifier or variable or "{" or "$" Debug: 
+Error code: generalexceptionmessage
+* line 102 of /cook/autodiagnostico.php: ParseError thrown
+
+[12-Sep-2024 08:59:48 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token "return" Debug: 
+Error code: generalexceptionmessage
+* line 222 of /cook/autodiagnostico.php: ParseError thrown
+
+[12-Sep-2024 09:03:36 America/Mexico_City] Default exception handler: Excepción - array_filter(): Argument #1 ($array) must be of type array, null given Debug: 
+Error code: generalexceptionmessage
+* line 231 of /cook/autodiagnostico.php: TypeError thrown
+* line 231 of /cook/autodiagnostico.php: call to array_filter()
+* line 40 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[12-Sep-2024 09:04:36 America/Mexico_City] Default exception handler: Excepción - array_filter(): Argument #1 ($array) must be of type array, null given Debug: 
+Error code: generalexceptionmessage
+* line 231 of /cook/autodiagnostico.php: TypeError thrown
+* line 231 of /cook/autodiagnostico.php: call to array_filter()
+* line 40 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[12-Sep-2024 09:04:50 America/Mexico_City] Default exception handler: Excepción - array_filter(): Argument #1 ($array) must be of type array, null given Debug: 
+Error code: generalexceptionmessage
+* line 231 of /cook/autodiagnostico.php: TypeError thrown
+* line 231 of /cook/autodiagnostico.php: call to array_filter()
+* line 40 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[12-Sep-2024 09:05:57 America/Mexico_City] Default exception handler: Excepción - array_filter(): Argument #1 ($array) must be of type array, null given Debug: 
+Error code: generalexceptionmessage
+* line 231 of /cook/autodiagnostico.php: TypeError thrown
+* line 231 of /cook/autodiagnostico.php: call to array_filter()
+* line 40 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[12-Sep-2024 09:06:21 America/Mexico_City] Default exception handler: Excepción - array_filter(): Argument #1 ($array) must be of type array, null given Debug: 
+Error code: generalexceptionmessage
+* line 231 of /cook/autodiagnostico.php: TypeError thrown
+* line 231 of /cook/autodiagnostico.php: call to array_filter()
+* line 40 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[12-Sep-2024 09:06:53 America/Mexico_City] Default exception handler: Excepción - array_filter(): Argument #1 ($array) must be of type array, null given Debug: 
+Error code: generalexceptionmessage
+* line 231 of /cook/autodiagnostico.php: TypeError thrown
+* line 231 of /cook/autodiagnostico.php: call to array_filter()
+* line 40 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[12-Sep-2024 09:44:03 America/Mexico_City] Default exception handler: Excepción - SQLSTATE[42000]: Syntax error or access violation: 1066 Not unique table/alias: 'mdl_questions_autodiagnostico' Debug: 
+Error code: generalexceptionmessage
+* line 79 of /cook/autodiagnostico.php: PDOException thrown
+* line 79 of /cook/autodiagnostico.php: call to PDO->query()
+* line 216 of /cook/autodiagnostico.php: call to Autodiagnostico->getQuestionsmodulos()
+* line 40 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[12-Sep-2024 09:44:43 America/Mexico_City] Default exception handler: Excepción - SQLSTATE[42000]: Syntax error or access violation: 1066 Not unique table/alias: 'mdl_questions_autodiagnostico' Debug: 
+Error code: generalexceptionmessage
+* line 78 of /cook/autodiagnostico.php: PDOException thrown
+* line 78 of /cook/autodiagnostico.php: call to PDO->query()
+* line 215 of /cook/autodiagnostico.php: call to Autodiagnostico->getQuestionsmodulos()
+* line 40 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[12-Sep-2024 09:53:26 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token "[", expecting identifier or variable or "{" or "$" Debug: 
+Error code: generalexceptionmessage
+* line 103 of /cook/autodiagnostico.php: ParseError thrown
+
+[12-Sep-2024 09:53:41 America/Mexico_City] Default exception handler: Excepción - Cannot use object of type stdClass as array Debug: 
+Error code: generalexceptionmessage
+* line 98 of /cook/autodiagnostico.php: Error thrown
+* line 219 of /cook/autodiagnostico.php: call to Autodiagnostico->getQuestionsmodulos()
+* line 40 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[12-Sep-2024 09:53:48 America/Mexico_City] Default exception handler: Excepción - Cannot use object of type stdClass as array Debug: 
+Error code: generalexceptionmessage
+* line 98 of /cook/autodiagnostico.php: Error thrown
+* line 219 of /cook/autodiagnostico.php: call to Autodiagnostico->getQuestionsmodulos()
+* line 40 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[12-Sep-2024 10:39:44 America/Mexico_City] Default exception handler: Excepción - Unclosed '{' on line 222 does not match ')' Debug: 
+Error code: generalexceptionmessage
+* line 259 of /cook/autodiagnostico.php: ParseError thrown
+
+[12-Sep-2024 10:39:55 America/Mexico_City] Default exception handler: Excepción - Unclosed '{' on line 222 does not match ')' Debug: 
+Error code: generalexceptionmessage
+* line 259 of /cook/autodiagnostico.php: ParseError thrown
+
+[12-Sep-2024 11:25:57 America/Mexico_City] Default exception handler: Excepción - Call to undefined function get_Modulos() Debug: 
+Error code: generalexceptionmessage
+* line 258 of /cook/autodiagnostico.php: Error thrown
+* line 40 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[12-Sep-2024 11:26:13 America/Mexico_City] Default exception handler: Excepción - count(): Argument #1 ($value) must be of type Countable|array, stdClass given Debug: 
+Error code: generalexceptionmessage
+* line 259 of /cook/autodiagnostico.php: TypeError thrown
+* line 40 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[12-Sep-2024 11:26:40 America/Mexico_City] Default exception handler: Excepción - count(): Argument #1 ($value) must be of type Countable|array, stdClass given Debug: 
+Error code: generalexceptionmessage
+* line 259 of /cook/autodiagnostico.php: TypeError thrown
+* line 40 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[12-Sep-2024 11:27:00 America/Mexico_City] Default exception handler: Excepción - count(): Argument #1 ($value) must be of type Countable|array, null given Debug: 
+Error code: generalexceptionmessage
+* line 259 of /cook/autodiagnostico.php: TypeError thrown
+* line 40 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[12-Sep-2024 17:49:17 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/universidadmondr/public_html/cook/autotest.php on line 32
+[12-Sep-2024 17:49:24 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/universidadmondr/public_html/cook/autotest.php on line 32
+[12-Sep-2024 17:49:24 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/universidadmondr/public_html/cook/autotest.php on line 32
+[12-Sep-2024 14:29:08 America/Mexico_City] Default exception handler: Excepción - Cannot use object of type stdClass as array Debug: 
+Error code: generalexceptionmessage
+* line 145 of /cook/autodiagnostico.php: Error thrown
+* line 41 of /cook/autotest.php: call to Autodiagnostico->register_answers()
+
+[12-Sep-2024 14:33:40 America/Mexico_City] Default exception handler: Excepción - htmlspecialchars(): Argument #1 ($string) must be of type string, stdClass given Debug: 
+Error code: generalexceptionmessage
+* line 43 of /cook/autotest.php: TypeError thrown
+* line 43 of /cook/autotest.php: call to htmlspecialchars()
+
+[12-Sep-2024 14:34:24 America/Mexico_City] Default exception handler: Excepción - htmlspecialchars(): Argument #1 ($string) must be of type string, stdClass given Debug: 
+Error code: generalexceptionmessage
+* line 43 of /cook/autotest.php: TypeError thrown
+* line 43 of /cook/autotest.php: call to htmlspecialchars()
+
+[12-Sep-2024 14:39:06 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected variable "$data_set" Debug: 
+Error code: generalexceptionmessage
+* line 147 of /cook/autodiagnostico.php: ParseError thrown
+
+[12-Sep-2024 14:42:22 America/Mexico_City] Default exception handler: Excepción - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM mdl_modulos
+      inner join mdl_questions_autodiagnostico on mdl_modulos.i' at line 1 Debug: 
+Error code: generalexceptionmessage
+* line 148 of /cook/autodiagnostico.php: PDOException thrown
+* line 148 of /cook/autodiagnostico.php: call to PDO->query()
+* line 41 of /cook/autotest.php: call to Autodiagnostico->register_answers()
+
+[12-Sep-2024 15:07:54 America/Mexico_City] Default exception handler: Excepción - Cannot use object of type stdClass as array Debug: 
+Error code: generalexceptionmessage
+* line 167 of /cook/autodiagnostico.php: Error thrown
+* line 41 of /cook/autotest.php: call to Autodiagnostico->register_answers()
+
+[12-Sep-2024 15:08:32 America/Mexico_City] Default exception handler: Excepción - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and mdl_answer_users_questions.User_id_moodle =' at line 8 Debug: 
+Error code: generalexceptionmessage
+* line 152 of /cook/autodiagnostico.php: PDOException thrown
+* line 152 of /cook/autodiagnostico.php: call to PDO->query()
+* line 41 of /cook/autotest.php: call to Autodiagnostico->register_answers()
+
+[12-Sep-2024 15:11:46 America/Mexico_City] Default exception handler: La tabla "mdl_answer_users_questions"no existe Debug: 
+Error code: ddltablenotexist
+* line 1512 of /lib/dml/mysqli_native_moodle_database.php: dml_exception thrown
+* line 170 of /cook/autodiagnostico.php: call to mysqli_native_moodle_database->insert_record()
+* line 41 of /cook/autotest.php: call to Autodiagnostico->register_answers()
+
+[12-Sep-2024 15:13:32 America/Mexico_City] Default exception handler: Error al escribir a la base de datos Debug: Field 'correct' doesn't have a default value
+INSERT INTO mdl_answer_users_questions (User_id_moodle,Question_id,Answer_id) VALUES(?,?,?)
+[array (
+  0 => '181',
+  1 => 1,
+  2 => '1',
+)]
+Error code: dmlwriteexception
+* line 497 of /lib/dml/moodle_database.php: dml_write_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1482 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 1528 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+* line 170 of /cook/autodiagnostico.php: call to mysqli_native_moodle_database->insert_record()
+* line 41 of /cook/autotest.php: call to Autodiagnostico->register_answers()
+
+[12-Sep-2024 15:14:25 America/Mexico_City] Default exception handler: Excepción - htmlspecialchars(): Argument #1 ($string) must be of type string, array given Debug: 
+Error code: generalexceptionmessage
+* line 43 of /cook/autotest.php: TypeError thrown
+* line 43 of /cook/autotest.php: call to htmlspecialchars()
+
+[12-Sep-2024 15:25:45 America/Mexico_City] Default exception handler: Excepción - Cannot use object of type stdClass as array Debug: 
+Error code: generalexceptionmessage
+* line 263 of /cook/autodiagnostico.php: Error thrown
+* line 57 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[12-Sep-2024 15:27:55 America/Mexico_City] Default exception handler: Excepción - Call to a member function get_records_sql() on null Debug: 
+Error code: generalexceptionmessage
+* line 188 of /cook/autodiagnostico.php: Error thrown
+* line 261 of /cook/autodiagnostico.php: call to Autodiagnostico->get_answer_by_question_per_user()
+* line 57 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[12-Sep-2024 15:29:13 America/Mexico_City] Default exception handler: Excepción - Cannot use object of type stdClass as array Debug: 
+Error code: generalexceptionmessage
+* line 263 of /cook/autodiagnostico.php: Error thrown
+* line 57 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[12-Sep-2024 15:38:11 America/Mexico_City] Default exception handler: Excepción - Cannot use object of type stdClass as array Debug: 
+Error code: generalexceptionmessage
+* line 271 of /cook/autodiagnostico.php: Error thrown
+* line 57 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[12-Sep-2024 15:56:43 America/Mexico_City] Default exception handler: Excepción - mysqli::real_escape_string(): Argument #1 ($string) must be of type string, array given Debug: 
+Error code: generalexceptionmessage
+* line 1265 of /lib/dml/mysqli_native_moodle_database.php: TypeError thrown
+* line 1265 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli->real_escape_string()
+* line 1477 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->emulate_bound_params()
+* line 1528 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+* line 170 of /cook/autodiagnostico.php: call to mysqli_native_moodle_database->insert_record()
+* line 41 of /cook/autotest.php: call to Autodiagnostico->register_answers()
+
+[12-Sep-2024 15:56:57 America/Mexico_City] Default exception handler: Excepción - htmlspecialchars(): Argument #1 ($string) must be of type string, array given Debug: 
+Error code: generalexceptionmessage
+* line 43 of /cook/autotest.php: TypeError thrown
+* line 43 of /cook/autotest.php: call to htmlspecialchars()
+
+[12-Sep-2024 16:38:02 America/Mexico_City] Default exception handler: Excepción - htmlspecialchars(): Argument #1 ($string) must be of type string, array given Debug: 
+Error code: generalexceptionmessage
+* line 43 of /cook/autotest.php: TypeError thrown
+* line 43 of /cook/autotest.php: call to htmlspecialchars()
+
+[12-Sep-2024 17:06:14 America/Mexico_City] Default exception handler: Excepción - htmlspecialchars(): Argument #1 ($string) must be of type string, array given Debug: 
+Error code: generalexceptionmessage
+* line 43 of /cook/autotest.php: TypeError thrown
+* line 43 of /cook/autotest.php: call to htmlspecialchars()
+
+[12-Sep-2024 17:06:52 America/Mexico_City] Default exception handler: Excepción - htmlspecialchars(): Argument #1 ($string) must be of type string, array given Debug: 
+Error code: generalexceptionmessage
+* line 43 of /cook/autotest.php: TypeError thrown
+* line 43 of /cook/autotest.php: call to htmlspecialchars()
+
+[12-Sep-2024 17:09:19 America/Mexico_City] Default exception handler: Excepción - count(): Argument #1 ($value) must be of type Countable|array, string given Debug: 
+Error code: generalexceptionmessage
+* line 167 of /cook/autodiagnostico.php: TypeError thrown
+* line 41 of /cook/autotest.php: call to Autodiagnostico->register_answers()
+
+[12-Sep-2024 17:09:41 America/Mexico_City] Default exception handler: Excepción - count(): Argument #1 ($value) must be of type Countable|array, string given Debug: 
+Error code: generalexceptionmessage
+* line 167 of /cook/autodiagnostico.php: TypeError thrown
+* line 41 of /cook/autotest.php: call to Autodiagnostico->register_answers()
+
+[12-Sep-2024 17:10:37 America/Mexico_City] Default exception handler: Excepción - count(): Argument #1 ($value) must be of type Countable|array, string given Debug: 
+Error code: generalexceptionmessage
+* line 167 of /cook/autodiagnostico.php: TypeError thrown
+* line 41 of /cook/autotest.php: call to Autodiagnostico->register_answers()
+
+[12-Sep-2024 17:10:50 America/Mexico_City] Default exception handler: Excepción - count(): Argument #1 ($value) must be of type Countable|array, string given Debug: 
+Error code: generalexceptionmessage
+* line 167 of /cook/autodiagnostico.php: TypeError thrown
+* line 41 of /cook/autotest.php: call to Autodiagnostico->register_answers()
+
+[12-Sep-2024 17:11:27 America/Mexico_City] Default exception handler: Excepción - count(): Argument #1 ($value) must be of type Countable|array, string given Debug: 
+Error code: generalexceptionmessage
+* line 166 of /cook/autodiagnostico.php: TypeError thrown
+* line 41 of /cook/autotest.php: call to Autodiagnostico->register_answers()
+
+[12-Sep-2024 17:14:06 America/Mexico_City] Default exception handler: Excepción - htmlspecialchars(): Argument #1 ($string) must be of type string, array given Debug: 
+Error code: generalexceptionmessage
+* line 43 of /cook/autotest.php: TypeError thrown
+* line 43 of /cook/autotest.php: call to htmlspecialchars()
+
+[12-Sep-2024 17:14:35 America/Mexico_City] Default exception handler: Excepción - htmlspecialchars(): Argument #1 ($string) must be of type string, array given Debug: 
+Error code: generalexceptionmessage
+* line 43 of /cook/autotest.php: TypeError thrown
+* line 43 of /cook/autotest.php: call to htmlspecialchars()
+
+[13-Sep-2024 08:57:08 America/Mexico_City] Default exception handler: Excepción - Illegal offset type Debug: 
+Error code: generalexceptionmessage
+* line 300 of /cook/autodiagnostico.php: TypeError thrown
+* line 56 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[13-Sep-2024 08:58:18 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token ";", expecting ")" Debug: 
+Error code: generalexceptionmessage
+* line 300 of /cook/autodiagnostico.php: ParseError thrown
+
+[13-Sep-2024 09:28:26 America/Mexico_City] Default exception handler: Error al escribir a la base de datos Debug: Column 'Answer_id' cannot be null
+INSERT INTO mdl_answer_users_questions (User_id_moodle,Question_id,Answer_id,correct) VALUES(?,?,?,?)
+[array (
+  0 => '181',
+  1 => 22,
+  2 => NULL,
+  3 => 0,
+)]
+Error code: dmlwriteexception
+* line 497 of /lib/dml/moodle_database.php: dml_write_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1482 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 1528 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+* line 181 of /cook/autodiagnostico.php: call to mysqli_native_moodle_database->insert_record()
+* line 42 of /cook/autotest.php: call to Autodiagnostico->register_answers()
+
+[13-Sep-2024 09:37:58 America/Mexico_City] Default exception handler: Error al escribir a la base de datos Debug: Column 'Answer_id' cannot be null
+INSERT INTO mdl_answer_users_questions (User_id_moodle,Question_id,Answer_id,correct) VALUES(?,?,?,?)
+[array (
+  0 => '181',
+  1 => 22,
+  2 => NULL,
+  3 => 0,
+)]
+Error code: dmlwriteexception
+* line 497 of /lib/dml/moodle_database.php: dml_write_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1482 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 1528 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+* line 181 of /cook/autodiagnostico.php: call to mysqli_native_moodle_database->insert_record()
+* line 42 of /cook/autotest.php: call to Autodiagnostico->register_answers()
+
+[13-Sep-2024 09:39:41 America/Mexico_City] Default exception handler: Error al escribir a la base de datos Debug: Column 'Answer_id' cannot be null
+INSERT INTO mdl_answer_users_questions (User_id_moodle,Question_id,Answer_id,correct) VALUES(?,?,?,?)
+[array (
+  0 => '181',
+  1 => 22,
+  2 => NULL,
+  3 => 0,
+)]
+Error code: dmlwriteexception
+* line 497 of /lib/dml/moodle_database.php: dml_write_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1482 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 1528 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+* line 181 of /cook/autodiagnostico.php: call to mysqli_native_moodle_database->insert_record()
+* line 42 of /cook/autotest.php: call to Autodiagnostico->register_answers()
+
+[13-Sep-2024 09:42:48 America/Mexico_City] Default exception handler: Error al escribir a la base de datos Debug: Column 'Answer_id' cannot be null
+INSERT INTO mdl_answer_users_questions (User_id_moodle,Question_id,Answer_id,correct) VALUES(?,?,?,?)
+[array (
+  0 => '181',
+  1 => 22,
+  2 => NULL,
+  3 => 0,
+)]
+Error code: dmlwriteexception
+* line 497 of /lib/dml/moodle_database.php: dml_write_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1482 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 1528 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+* line 181 of /cook/autodiagnostico.php: call to mysqli_native_moodle_database->insert_record()
+* line 42 of /cook/autotest.php: call to Autodiagnostico->register_answers()
+
+[13-Sep-2024 09:43:26 America/Mexico_City] Default exception handler: Error al escribir a la base de datos Debug: Column 'Answer_id' cannot be null
+INSERT INTO mdl_answer_users_questions (User_id_moodle,Question_id,Answer_id,correct) VALUES(?,?,?,?)
+[array (
+  0 => '2',
+  1 => 22,
+  2 => NULL,
+  3 => 0,
+)]
+Error code: dmlwriteexception
+* line 497 of /lib/dml/moodle_database.php: dml_write_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1482 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 1528 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+* line 181 of /cook/autodiagnostico.php: call to mysqli_native_moodle_database->insert_record()
+* line 42 of /cook/autotest.php: call to Autodiagnostico->register_answers()
+
+[13-Sep-2024 09:44:35 America/Mexico_City] Default exception handler: Error al escribir a la base de datos Debug: Column 'Answer_id' cannot be null
+INSERT INTO mdl_answer_users_questions (User_id_moodle,Question_id,Answer_id,correct) VALUES(?,?,?,?)
+[array (
+  0 => '2',
+  1 => 22,
+  2 => NULL,
+  3 => 0,
+)]
+Error code: dmlwriteexception
+* line 497 of /lib/dml/moodle_database.php: dml_write_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1482 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 1528 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+* line 181 of /cook/autodiagnostico.php: call to mysqli_native_moodle_database->insert_record()
+* line 42 of /cook/autotest.php: call to Autodiagnostico->register_answers()
+
+[13-Sep-2024 09:46:21 America/Mexico_City] Default exception handler: Error al escribir a la base de datos Debug: Column 'Answer_id' cannot be null
+INSERT INTO mdl_answer_users_questions (User_id_moodle,Question_id,Answer_id,correct) VALUES(?,?,?,?)
+[array (
+  0 => '2',
+  1 => 22,
+  2 => NULL,
+  3 => 0,
+)]
+Error code: dmlwriteexception
+* line 497 of /lib/dml/moodle_database.php: dml_write_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1482 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 1528 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+* line 181 of /cook/autodiagnostico.php: call to mysqli_native_moodle_database->insert_record()
+* line 42 of /cook/autotest.php: call to Autodiagnostico->register_answers()
+
+[13-Sep-2024 09:46:46 America/Mexico_City] Default exception handler: Error al escribir a la base de datos Debug: Column 'Answer_id' cannot be null
+INSERT INTO mdl_answer_users_questions (User_id_moodle,Question_id,Answer_id,correct) VALUES(?,?,?,?)
+[array (
+  0 => '2',
+  1 => 22,
+  2 => NULL,
+  3 => 0,
+)]
+Error code: dmlwriteexception
+* line 497 of /lib/dml/moodle_database.php: dml_write_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1482 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 1528 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+* line 181 of /cook/autodiagnostico.php: call to mysqli_native_moodle_database->insert_record()
+* line 42 of /cook/autotest.php: call to Autodiagnostico->register_answers()
+
+[13-Sep-2024 09:51:09 America/Mexico_City] Default exception handler: Error al escribir a la base de datos Debug: Column 'Answer_id' cannot be null
+INSERT INTO mdl_answer_users_questions (User_id_moodle,Question_id,Answer_id,correct) VALUES(?,?,?,?)
+[array (
+  0 => '2',
+  1 => 22,
+  2 => NULL,
+  3 => 0,
+)]
+Error code: dmlwriteexception
+* line 497 of /lib/dml/moodle_database.php: dml_write_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1482 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 1528 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+* line 181 of /cook/autodiagnostico.php: call to mysqli_native_moodle_database->insert_record()
+* line 42 of /cook/autotest.php: call to Autodiagnostico->register_answers()
+
+[13-Sep-2024 09:59:48 America/Mexico_City] Default exception handler: Error al escribir a la base de datos Debug: Column 'Answer_id' cannot be null
+INSERT INTO mdl_answer_users_questions (User_id_moodle,Question_id,Answer_id,correct) VALUES(?,?,?,?)
+[array (
+  0 => '2',
+  1 => 4,
+  2 => NULL,
+  3 => 0,
+)]
+Error code: dmlwriteexception
+* line 497 of /lib/dml/moodle_database.php: dml_write_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1482 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 1528 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+* line 181 of /cook/autodiagnostico.php: call to mysqli_native_moodle_database->insert_record()
+* line 42 of /cook/autotest.php: call to Autodiagnostico->register_answers()
+
+[13-Sep-2024 10:03:29 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected single-quoted string ""&gt;" Debug: 
+Error code: generalexceptionmessage
+* line 317 of /cook/autodiagnostico.php: ParseError thrown
+
+[13-Sep-2024 10:03:53 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected single-quoted string ""&gt;" Debug: 
+Error code: generalexceptionmessage
+* line 317 of /cook/autodiagnostico.php: ParseError thrown
+
+[13-Sep-2024 10:20:38 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected identifier "checkbox" Debug: 
+Error code: generalexceptionmessage
+* line 371 of /cook/autodiagnostico.php: ParseError thrown
+
+[13-Sep-2024 10:22:07 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected identifier "name" Debug: 
+Error code: generalexceptionmessage
+* line 391 of /cook/autodiagnostico.php: ParseError thrown
+
+[13-Sep-2024 10:26:01 America/Mexico_City] Default exception handler: Error al escribir a la base de datos Debug: Column 'Answer_id' cannot be null
+INSERT INTO mdl_answer_users_questions (User_id_moodle,Question_id,Answer_id,correct) VALUES(?,?,?,?)
+[array (
+  0 => '2',
+  1 => 4,
+  2 => NULL,
+  3 => 0,
+)]
+Error code: dmlwriteexception
+* line 497 of /lib/dml/moodle_database.php: dml_write_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1482 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 1528 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+* line 181 of /cook/autodiagnostico.php: call to mysqli_native_moodle_database->insert_record()
+* line 42 of /cook/autotest.php: call to Autodiagnostico->register_answers()
+
+[13-Sep-2024 10:26:46 America/Mexico_City] Default exception handler: Error al escribir a la base de datos Debug: Column 'Answer_id' cannot be null
+INSERT INTO mdl_answer_users_questions (User_id_moodle,Question_id,Answer_id,correct) VALUES(?,?,?,?)
+[array (
+  0 => '2',
+  1 => 4,
+  2 => NULL,
+  3 => 0,
+)]
+Error code: dmlwriteexception
+* line 497 of /lib/dml/moodle_database.php: dml_write_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1482 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 1528 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+* line 181 of /cook/autodiagnostico.php: call to mysqli_native_moodle_database->insert_record()
+* line 42 of /cook/autotest.php: call to Autodiagnostico->register_answers()
+
+[13-Sep-2024 10:29:23 America/Mexico_City] Default exception handler: Error al escribir a la base de datos Debug: Column 'Answer_id' cannot be null
+INSERT INTO mdl_answer_users_questions (User_id_moodle,Question_id,Answer_id,correct) VALUES(?,?,?,?)
+[array (
+  0 => '2',
+  1 => 4,
+  2 => NULL,
+  3 => 0,
+)]
+Error code: dmlwriteexception
+* line 497 of /lib/dml/moodle_database.php: dml_write_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1482 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 1528 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+* line 181 of /cook/autodiagnostico.php: call to mysqli_native_moodle_database->insert_record()
+* line 43 of /cook/autotest.php: call to Autodiagnostico->register_answers()
+
+[13-Sep-2024 10:48:16 America/Mexico_City] Default exception handler: Excepción - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and mdl_answer_users_questions.User_id_moodle =' at line 6 Debug: 
+Error code: generalexceptionmessage
+* line 143 of /cook/autodiagnostico.php: PDOException thrown
+* line 143 of /cook/autodiagnostico.php: call to PDO->query()
+* line 339 of /cook/autodiagnostico.php: call to Autodiagnostico->isModCompleted()
+* line 58 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[13-Sep-2024 10:48:54 America/Mexico_City] Default exception handler: Excepción - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and mdl_answer_users_questions.User_id_moodle = 2' at line 6 Debug: 
+Error code: generalexceptionmessage
+* line 143 of /cook/autodiagnostico.php: PDOException thrown
+* line 143 of /cook/autodiagnostico.php: call to PDO->query()
+* line 339 of /cook/autodiagnostico.php: call to Autodiagnostico->isModCompleted()
+* line 58 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[13-Sep-2024 10:52:24 America/Mexico_City] Default exception handler: Excepción - SQLSTATE[42S02]: Base table or view not found: 1051 Unknown table 'mdl_answer_users_questions.I' Debug: 
+Error code: generalexceptionmessage
+* line 143 of /cook/autodiagnostico.php: PDOException thrown
+* line 143 of /cook/autodiagnostico.php: call to PDO->query()
+* line 339 of /cook/autodiagnostico.php: call to Autodiagnostico->isModCompleted()
+* line 58 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[13-Sep-2024 11:14:16 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token "}" Debug: 
+Error code: generalexceptionmessage
+* line 418 of /cook/mapa_class.php: ParseError thrown
+
+[13-Sep-2024 11:14:53 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token "}" Debug: 
+Error code: generalexceptionmessage
+* line 419 of /cook/mapa_class.php: ParseError thrown
+
+[13-Sep-2024 11:16:00 America/Mexico_City] Default exception handler: Excepción - mysqli::query(): Argument #1 ($query) cannot be empty Debug: 
+Error code: generalexceptionmessage
+* line 1397 of /lib/dml/mysqli_native_moodle_database.php: ValueError thrown
+* line 1397 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli->query()
+* line 162 of /cook/autodiagnostico.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 36 of /cook/autotest.php: call to Autodiagnostico->getlastModulo()
+
+[13-Sep-2024 11:17:02 America/Mexico_City] Default exception handler: Excepción - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY mdl_Answer_autodiagnostico.Id, mdl_questions_autodiagnostico.Id,  mdl_m' at line 7 Debug: 
+Error code: generalexceptionmessage
+* line 75 of /cook/autodiagnostico.php: PDOException thrown
+* line 75 of /cook/autodiagnostico.php: call to PDO->query()
+* line 295 of /cook/autodiagnostico.php: call to Autodiagnostico->getQuestionsmodulos()
+* line 59 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[13-Sep-2024 11:18:02 America/Mexico_City] Default exception handler: Excepción - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY mdl_Answer_autodiagnostico.Id, mdl_questions_autodiagnostico.Id,  mdl_m' at line 7 Debug: 
+Error code: generalexceptionmessage
+* line 75 of /cook/autodiagnostico.php: PDOException thrown
+* line 75 of /cook/autodiagnostico.php: call to PDO->query()
+* line 294 of /cook/autodiagnostico.php: call to Autodiagnostico->getQuestionsmodulos()
+* line 59 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[13-Sep-2024 11:40:57 America/Mexico_City] Default exception handler: Error al leer de la base de datos Debug: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM mdl_modulos as mods
+      inner join mdl_questions_autodiagnostico on mods.' at line 4
+SELECT mods.Id as actual_mod,
+      (select mod_next.Id as next_mod from mdl_modulos as mod_next where mod_next.Id > mods.Id limit 1) as next_modulo,
+      (select mod_back.Id as back_mod from mdl_modulos as mod_back where mod_back.Id < mods.Id order by mod_back.Id desc limit 1) as back_modulo,
+      FROM mdl_modulos as mods
+      inner join mdl_questions_autodiagnostico on mods.id = mdl_questions_autodiagnostico.module_assing
+      inner join mdl_Answer_autodiagnostico on mdl_Answer_autodiagnostico.Question_id = mdl_questions_autodiagnostico.Id
+      inner join mdl_answer_users_questions on (mdl_questions_autodiagnostico.Id = mdl_answer_users_questions.Question_id and mdl_Answer_autodiagnostico.Id = mdl_answer_users_questions.Answer_id)
+      WHERE mdl_answer_users_questions.User_id_moodle = 2
+      ORDER BY mdl_answer_users_questions.created_At desc limit 1
+[array (
+)]
+Error code: dmlreadexception
+* line 494 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1398 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 164 of /cook/autodiagnostico.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 35 of /cook/autotest.php: call to Autodiagnostico->getlastModulo()
+
+[13-Sep-2024 11:41:09 America/Mexico_City] Default exception handler: Error al leer de la base de datos Debug: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM mdl_modulos as mods
+      inner join mdl_questions_autodiagnostico on mods.' at line 4
+SELECT mods.Id as actual_mod,
+      (select mod_next.Id as next_mod from mdl_modulos as mod_next where mod_next.Id > mods.Id limit 1) as next_modulo,
+      (select mod_back.Id as back_mod from mdl_modulos as mod_back where mod_back.Id < mods.Id order by mod_back.Id desc limit 1) as back_modulo,
+      FROM mdl_modulos as mods
+      inner join mdl_questions_autodiagnostico on mods.id = mdl_questions_autodiagnostico.module_assing
+      inner join mdl_Answer_autodiagnostico on mdl_Answer_autodiagnostico.Question_id = mdl_questions_autodiagnostico.Id
+      inner join mdl_answer_users_questions on (mdl_questions_autodiagnostico.Id = mdl_answer_users_questions.Question_id and mdl_Answer_autodiagnostico.Id = mdl_answer_users_questions.Answer_id)
+      WHERE mdl_answer_users_questions.User_id_moodle = 2
+      ORDER BY mdl_answer_users_questions.created_At desc limit 1
+[array (
+)]
+Error code: dmlreadexception
+* line 494 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1398 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 164 of /cook/autodiagnostico.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 35 of /cook/autotest.php: call to Autodiagnostico->getlastModulo()
+
+[13-Sep-2024 11:48:20 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token "}" Debug: 
+Error code: generalexceptionmessage
+* line 169 of /cook/autodiagnostico.php: ParseError thrown
+
+[13-Sep-2024 11:49:28 America/Mexico_City] Default exception handler: Excepción - Call to undefined function var_dupm() Debug: 
+Error code: generalexceptionmessage
+* line 36 of /cook/autotest.php: Error thrown
+
+[13-Sep-2024 14:51:39 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected single-quoted string "<i class="fa-solid fa-check i-..."></i> Debug: 
+Error code: generalexceptionmessage
+* line 256 of /cook/mapa_class.php: ParseError thrown
+
+[13-Sep-2024 14:54:31 America/Mexico_City] Default exception handler: Excepción - var_dump() expects at least 1 argument, 0 given Debug: 
+Error code: generalexceptionmessage
+* line 250 of /cook/mapa_class.php: ArgumentCountError thrown
+* line 250 of /cook/mapa_class.php: call to var_dump()
+* line 40 of /cook/course.php: call to mapa->generate_lime_time_items()
+
+[13-Sep-2024 14:56:25 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected variable "$class_point" Debug: 
+Error code: generalexceptionmessage
+* line 251 of /cook/mapa_class.php: ParseError thrown
+
+[13-Sep-2024 16:40:56 America/Mexico_City] Default exception handler: Excepción - Too few arguments to function Autodiagnostico::validate_points_required(), 0 passed in [dirroot]/cook/autodiagnostico.php on line 506 and exactly 2 expected Debug: 
+Error code: generalexceptionmessage
+* line 494 of /cook/autodiagnostico.php: ArgumentCountError thrown
+* line 506 of /cook/autodiagnostico.php: call to Autodiagnostico->validate_points_required()
+* line 529 of /cook/autodiagnostico.php: call to Autodiagnostico->return_table_results()
+* line 41 of /cook/reports.php: call to Autodiagnostico->view_render_report_results()
+
+[16-Sep-2024 11:10:46 America/Mexico_City] Default exception handler: Error al leer de la base de datos Debug: Unknown column 'id_user' in 'where clause'
+SELECT * FROM mdl_answer_users_questions
+         WHERE id_user = 181 limit 1;
+[array (
+)]
+Error code: dmlreadexception
+* line 494 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1398 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 270 of /cook/autodiagnostico.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 419 of /cook/autodiagnostico.php: call to Autodiagnostico->get_fish_autodiagnostico()
+* line 63 of /cook/autotest.php: call to Autodiagnostico->render_view_questions_by_sectin()
+
+[16-Sep-2024 11:24:19 America/Mexico_City] Default exception handler: Error al escribir a la base de datos Debug: Column 'Answer_id' cannot be null
+INSERT INTO mdl_answer_users_questions (User_id_moodle,Question_id,Answer_id,correct) VALUES(?,?,?,?)
+[array (
+  0 => '181',
+  1 => 4,
+  2 => NULL,
+  3 => 0,
+)]
+Error code: dmlwriteexception
+* line 497 of /lib/dml/moodle_database.php: dml_write_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1482 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 1528 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+* line 239 of /cook/autodiagnostico.php: call to mysqli_native_moodle_database->insert_record()
+* line 48 of /cook/autotest.php: call to Autodiagnostico->register_answers()
+
+[17-Sep-2024 10:09:50 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token "echo" Debug: 
+Error code: generalexceptionmessage
+* line 638 of /cook/autodiagnostico.php: ParseError thrown
+* line 7 of /cook/reports.php: call to require_once()
+
+[17-Sep-2024 10:10:07 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token "." Debug: 
+Error code: generalexceptionmessage
+* line 638 of /cook/autodiagnostico.php: ParseError thrown
+* line 7 of /cook/reports.php: call to require_once()
+
+[17-Sep-2024 10:11:12 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token "." Debug: 
+Error code: generalexceptionmessage
+* line 638 of /cook/autodiagnostico.php: ParseError thrown
+* line 7 of /cook/reports.php: call to require_once()
+
+[17-Sep-2024 10:12:10 America/Mexico_City] Default exception handler: Excepción - Call to undefined method Autodiagnostico::array_results_mods() Debug: 
+Error code: generalexceptionmessage
+* line 567 of /cook/autodiagnostico.php: Error thrown
+* line 41 of /cook/reports.php: call to Autodiagnostico->view_render_report_results()
+
+[17-Sep-2024 12:24:22 America/Mexico_City] Default exception handler: Excepción - count(): Argument #1 ($value) must be of type Countable|array, string given Debug: 
+Error code: generalexceptionmessage
+* line 581 of /cook/autodiagnostico.php: TypeError thrown
+* line 41 of /cook/reports.php: call to Autodiagnostico->view_render_report_results()
+
+[17-Sep-2024 16:18:34 America/Mexico_City] Default exception handler: Excepción - Division by zero Debug: 
+Error code: generalexceptionmessage
+* line 624 of /cook/mapa_class.php: DivisionByZeroError thrown
+* line 45 of /cook/course_mod.php: call to mapa->view_render_modulos()
+
+[17-Sep-2024 16:18:38 America/Mexico_City] Default exception handler: Excepción - Division by zero Debug: 
+Error code: generalexceptionmessage
+* line 624 of /cook/mapa_class.php: DivisionByZeroError thrown
+* line 45 of /cook/course_mod.php: call to mapa->view_render_modulos()
+
+[17-Sep-2024 16:18:44 America/Mexico_City] Default exception handler: Excepción - Division by zero Debug: 
+Error code: generalexceptionmessage
+* line 624 of /cook/mapa_class.php: DivisionByZeroError thrown
+* line 45 of /cook/course_mod.php: call to mapa->view_render_modulos()
+
+[18-Sep-2024 09:13:26 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token ":" Debug: 
+Error code: generalexceptionmessage
+* line 334 of /cook/autodiagnostico.php: ParseError thrown
+* line 7 of /cook/autotest.php: call to require_once()
+
+[18-Sep-2024 09:13:37 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token ":" Debug: 
+Error code: generalexceptionmessage
+* line 334 of /cook/autodiagnostico.php: ParseError thrown
+* line 7 of /cook/autotest.php: call to require_once()
+
+[18-Sep-2024 09:55:13 America/Mexico_City] Default exception handler: Excepción - mysqli::query(): Argument #1 ($query) cannot be empty Debug: 
+Error code: generalexceptionmessage
+* line 1397 of /lib/dml/mysqli_native_moodle_database.php: ValueError thrown
+* line 1397 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli->query()
+* line 444 of /cook/mapa_class.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 273 of /cook/autodiagnostico.php: call to mapa->get_courses_by_modulos()
+* line 48 of /cook/autotest.php: call to Autodiagnostico->register_answers()
+
+[18-Sep-2024 11:13:18 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token ";", expecting ")" Debug: 
+Error code: generalexceptionmessage
+* line 296 of /cook/autodiagnostico.php: ParseError thrown
+* line 7 of /cook/autotest.php: call to require_once()
+
+[18-Sep-2024 11:13:43 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token ";", expecting ")" Debug: 
+Error code: generalexceptionmessage
+* line 296 of /cook/autodiagnostico.php: ParseError thrown
+* line 7 of /cook/autotest.php: call to require_once()
+
+[18-Sep-2024 11:42:30 America/Mexico_City] Default exception handler: No se puede encontrar registro de datos en la tabla enrol de la base de datos. Debug: SELECT * FROM {enrol} WHERE courseid IS NULL AND enrol = ?
+[array (
+  0 => 'manual',
+)]
+Error code: invalidrecord
+* line 1659 of /lib/dml/moodle_database.php: dml_missing_record_exception thrown
+* line 1635 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 299 of /cook/autodiagnostico.php: call to moodle_database->get_record()
+* line 48 of /cook/autotest.php: call to Autodiagnostico->register_answers()
+
+[18-Sep-2024 11:46:26 America/Mexico_City] Default exception handler: No se puede encontrar registro de datos en la tabla enrol de la base de datos. Debug: SELECT * FROM {enrol} WHERE courseid IS NULL AND enrol = ?
+[array (
+  0 => 'manual',
+)]
+Error code: invalidrecord
+* line 1659 of /lib/dml/moodle_database.php: dml_missing_record_exception thrown
+* line 1635 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 299 of /cook/autodiagnostico.php: call to moodle_database->get_record()
+* line 48 of /cook/autotest.php: call to Autodiagnostico->register_answers()
+
+[18-Sep-2024 11:50:06 America/Mexico_City] Default exception handler: No se puede encontrar registro de datos en la tabla enrol de la base de datos. Debug: SELECT * FROM {enrol} WHERE courseid IS NULL AND enrol = ?
+[array (
+  0 => 'manual',
+)]
+Error code: invalidrecord
+* line 1659 of /lib/dml/moodle_database.php: dml_missing_record_exception thrown
+* line 1635 of /lib/dml/moodle_database.php: call to moodle_database->get_record_select()
+* line 300 of /cook/autodiagnostico.php: call to moodle_database->get_record()
+* line 48 of /cook/autotest.php: call to Autodiagnostico->register_answers()
+
+[18-Sep-2024 13:41:11 America/Mexico_City] Default exception handler: Error al leer de la base de datos Debug: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group by mdl_modulos.Id, mdl_modulos.Name_m' at line 8
+SELECT mdl_modulos.Id as m_id, mdl_modulos.Name_m as m_name, mdl_modulos.relative_activity_moodle, count(mdl_Answer_autodiagnostico.Question_id) as questions, sum(mdl_Answer_autodiagnostico.points) as points_per_mod, mdl_modulos.min_points, mdl_modulos.max_points, GROUP_CONCAT(mdl_answer_users_questions.Answer_id) as answers
+      FROM mdl_modulos
+      inner join mdl_questions_autodiagnostico on mdl_modulos.id = mdl_questions_autodiagnostico.module_assing
+      inner join mdl_Answer_autodiagnostico on mdl_Answer_autodiagnostico.Question_id = mdl_questions_autodiagnostico.Id
+      inner join mdl_answer_users_questions on (mdl_questions_autodiagnostico.Id = mdl_answer_users_questions.Question_id and mdl_Answer_autodiagnostico.Id = mdl_answer_users_questions.Answer_id)
+      WHERE mdl_answer_users_questions.User_id_moodle = 183
+      and mdl_modulos.relative_activity_moodle = 
+      group by mdl_modulos.Id, mdl_modulos.Name_m;
+[array (
+)]
+Error code: dmlreadexception
+* line 494 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1398 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 179 of /cook/autodiagnostico.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 680 of /cook/autodiagnostico.php: call to Autodiagnostico->get_result_autodiagnostic_by_course()
+* line 251 of /cook/mapa_class.php: call to Autodiagnostico->return_requierd_results()
+* line 45 of /cook/course.php: call to mapa->generate_lime_time_items()
+
+[18-Sep-2024 13:43:24 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token ";", expecting ")" Debug: 
+Error code: generalexceptionmessage
+* line 252 of /cook/mapa_class.php: ParseError thrown
+
+[18-Sep-2024 16:49:40 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token ";" Debug: 
+Error code: generalexceptionmessage
+* line 261 of /cook/mapa_class.php: ParseError thrown
+
+[18-Sep-2024 16:50:31 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token ";" Debug: 
+Error code: generalexceptionmessage
+* line 261 of /cook/mapa_class.php: ParseError thrown
+
+[18-Sep-2024 17:04:54 America/Mexico_City] Default exception handler: Excepción - Unclosed '{' on line 250 does not match ')' Debug: 
+Error code: generalexceptionmessage
+* line 265 of /cook/mapa_class.php: ParseError thrown
+
+[19-Sep-2024 09:58:01 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token ";" Debug: 
+Error code: generalexceptionmessage
+* line 337 of /cook/mapa_class.php: ParseError thrown
+
+[19-Sep-2024 11:32:30 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token "}" Debug: 
+Error code: generalexceptionmessage
+* line 365 of /cook/mapa_class.php: ParseError thrown
+
+[20-Sep-2024 12:43:35 America/Mexico_City] Default exception handler: Excepción - Value of type int is not callable Debug: 
+Error code: generalexceptionmessage
+* line 325 of /cook/mapa_class.php: Error thrown
+* line 45 of /cook/course.php: call to mapa->generate_lime_time_items()
+
+[20-Sep-2024 12:43:53 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token ";" Debug: 
+Error code: generalexceptionmessage
+* line 326 of /cook/mapa_class.php: ParseError thrown
+
+[23-Sep-2024 10:31:53 America/Mexico_City] Default exception handler: Error al escribir a la base de datos Debug: Column 'Answer_id' cannot be null
+INSERT INTO mdl_answer_users_questions (User_id_moodle,Question_id,Answer_id,correct) VALUES(?,?,?,?)
+[array (
+  0 => '181',
+  1 => 32,
+  2 => NULL,
+  3 => 0,
+)]
+Error code: dmlwriteexception
+* line 497 of /lib/dml/moodle_database.php: dml_write_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1482 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 1528 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->insert_record_raw()
+* line 256 of /cook/autodiagnostico.php: call to mysqli_native_moodle_database->insert_record()
+* line 48 of /cook/autotest.php: call to Autodiagnostico->register_answers()
+
+[09-Oct-2024 10:57:16 America/Mexico_City] Default exception handler: Excepción - Call to undefined function core_enrol_get_users_courses() Debug: 
+Error code: generalexceptionmessage
+* line 23 of /cook/course.php: Error thrown
+
+[09-Oct-2024 10:57:22 America/Mexico_City] Default exception handler: Excepción - Call to undefined function core_enrol_get_users_courses() Debug: 
+Error code: generalexceptionmessage
+* line 23 of /cook/course.php: Error thrown
+
+[09-Oct-2024 10:58:33 America/Mexico_City] Default exception handler: Excepción - Call to undefined function core_enrol_get_users_courses() Debug: 
+Error code: generalexceptionmessage
+* line 23 of /cook/course.php: Error thrown
+
+[09-Oct-2024 11:20:34 America/Mexico_City] Default exception handler: Excepción - Call to undefined function core_enrol_get_users_courses() Debug: 
+Error code: generalexceptionmessage
+* line 23 of /cook/course.php: Error thrown
+
+[09-Oct-2024 11:20:46 America/Mexico_City] Default exception handler: Excepción - Call to undefined function core_enrol_get_users_courses() Debug: 
+Error code: generalexceptionmessage
+* line 23 of /cook/course.php: Error thrown
+
+[09-Oct-2024 12:21:07 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token ":" Debug: 
+Error code: generalexceptionmessage
+* line 278 of /cook/mapa_class.php: ParseError thrown
+
+[09-Oct-2024 12:21:20 America/Mexico_City] Default exception handler: Excepción - syntax error, unexpected token ":" Debug: 
+Error code: generalexceptionmessage
+* line 278 of /cook/mapa_class.php: ParseError thrown
+
+[09-Oct-2024 12:29:05 America/Mexico_City] Default exception handler: Error al leer de la base de datos Debug: Unknown column 'mdl_course.shortname' in 'where clause'
+SELECT
+                      c.id AS course_id,
+                      c.fullname AS course_name,
+                      cc.id AS category_id,
+                      cc.name AS category_name,
+                      c.sortorder AS course_sortorder,
+                      cc.sortorder AS category_sortorder,
+                      c2.id AS parent_category_id,
+                      c2.name AS parent_category_name
+                  FROM
+                      mdl_user_enrolments ue
+                  JOIN
+                      mdl_enrol e ON ue.enrolid = e.id
+                  JOIN
+                      mdl_course c ON e.courseid = c.id
+                  JOIN
+                      mdl_course_categories cc ON c.category = cc.id
+                  LEFT JOIN
+                      mdl_course_categories c2 ON cc.parent = c2.id  -- Unir con la tabla de categorías para obtener la categoría padre
+                  WHERE
+                      ue.userid = 191
+                      and mdl_course.shortname != 'PEMPRENDIMIENTO'
+                  ORDER BY
+                      cc.sortorder,          -- Ordenar primero por el orden de las categorías
+                      c.sortorder; 
+[array (
+)]
+Error code: dmlreadexception
+* line 494 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1398 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 510 of /cook/mapa_class.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 139 of /cook/mapa_class.php: call to mapa->get_user_rol_courses()
+* line 45 of /cook/course.php: call to mapa->generate_lime_time_items()
+
+[09-Oct-2024 12:29:36 America/Mexico_City] Default exception handler: Error al leer de la base de datos Debug: Unknown column 'mdl_course_categories.id' in 'where clause'
+SELECT
+                      c.id AS course_id,
+                      c.fullname AS course_name,
+                      cc.id AS category_id,
+                      cc.name AS category_name,
+                      c.sortorder AS course_sortorder,
+                      cc.sortorder AS category_sortorder,
+                      c2.id AS parent_category_id,
+                      c2.name AS parent_category_name
+                  FROM
+                      mdl_user_enrolments ue
+                  JOIN
+                      mdl_enrol e ON ue.enrolid = e.id
+                  JOIN
+                      mdl_course c ON e.courseid = c.id
+                  JOIN
+                      mdl_course_categories cc ON c.category = cc.id
+                  LEFT JOIN
+                      mdl_course_categories c2 ON cc.parent = c2.id  -- Unir con la tabla de categorías para obtener la categoría padre
+                  WHERE
+                      ue.userid = 191
+                      and mdl_course_categories.id != 12
+                  ORDER BY
+                      cc.sortorder,          -- Ordenar primero por el orden de las categorías
+                      c.sortorder; 
+[array (
+)]
+Error code: dmlreadexception
+* line 494 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 293 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->query_end()
+* line 1398 of /lib/dml/mysqli_native_moodle_database.php: call to mysqli_native_moodle_database->query_end()
+* line 510 of /cook/mapa_class.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 139 of /cook/mapa_class.php: call to mapa->get_user_rol_courses()
+* line 45 of /cook/course.php: call to mapa->generate_lime_time_items()
+
